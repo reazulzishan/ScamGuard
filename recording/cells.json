@@ -1,0 +1,205 @@
+[
+ {
+  "i": 0,
+  "type": "markdown",
+  "start": 4.43,
+  "end": 5.97,
+  "text": "# ScamGuard \u00b7 Can AI catch a Bangla scam SMS?\nFour models, one honest test.\n1. **TF-IDF + logistic regression** (characters + words)\n2. **Multilingual embeddings** (multilingual-e5-base) + logistic re"
+ },
+ {
+  "i": 1,
+  "type": "markdown",
+  "start": 5.97,
+  "end": 7.5,
+  "text": "## Setup"
+ },
+ {
+  "i": 2,
+  "type": "code",
+  "start": 7.5,
+  "end": 10.54,
+  "text": "import re, json, time, numpy as np, pandas as pd, torch\nfrom sklearn.feature_extraction.text import TfidfVectorizer\nfrom sklearn.pipeline import make_pipeline, make_union\nfrom sklearn.linear_model imp"
+ },
+ {
+  "i": 3,
+  "type": "markdown",
+  "start": 10.54,
+  "end": 12.07,
+  "text": "# 1 \u00b7 The data"
+ },
+ {
+  "i": 4,
+  "type": "code",
+  "start": 12.07,
+  "end": 13.71,
+  "text": "sms = pd.concat([pd.read_parquet(RAW + f\"hf/{s}.parquet\") for s in [\"train\", \"validation\", \"test\"]], ignore_index=True)\nprint(sms.shape)\npd.crosstab(sms[\"source\"], sms[\"label\"], margins=True)"
+ },
+ {
+  "i": 5,
+  "type": "code",
+  "start": 13.71,
+  "end": 15.26,
+  "text": "# A second, separately collected set of real messages. Never used for training.\nwild = pd.read_csv(RAW + \"mendeley/financial_scams.csv\").dropna(subset=[\"message\"]).drop_duplicates(\"message\").reset_ind"
+ },
+ {
+  "i": 6,
+  "type": "markdown",
+  "start": 15.26,
+  "end": 16.79,
+  "text": "# 2 \u00b7 Trap: the same scam, a different phone number"
+ },
+ {
+  "i": 7,
+  "type": "code",
+  "start": 16.79,
+  "end": 19.09,
+  "text": "norm = lambda s: re.sub(r\"\\s+\", \" \", re.sub(r\"[0-9\u09e6-\u09ef]+\", \"0\", re.sub(r\"[^\\w\\s]\", \"\", str(s).lower()))).strip()\ndef near_dup_groups(texts, thr=0.8):\n    X = TfidfVectorizer(analyzer=\"char_wb\", ngram_r"
+ },
+ {
+  "i": 8,
+  "type": "code",
+  "start": 19.09,
+  "end": 21.26,
+  "text": "# Split by GROUP: a template is either in training or in test, never both.\nsgk = StratifiedGroupKFold(n_splits=5, shuffle=True, random_state=SEED)\nrest, te = next(sgk.split(sms, sms[\"label\"] + sms[\"so"
+ },
+ {
+  "i": 9,
+  "type": "markdown",
+  "start": 21.26,
+  "end": 22.79,
+  "text": "# 3 \u00b7 Model 1 \u00b7 TF-IDF + logistic regression"
+ },
+ {
+  "i": 10,
+  "type": "code",
+  "start": 22.79,
+  "end": 24.91,
+  "text": "tfidf = make_pipeline(make_union(\n    TfidfVectorizer(analyzer=\"char_wb\", ngram_range=(2, 5), min_df=2, sublinear_tf=True),\n    TfidfVectorizer(analyzer=\"word\", ngram_range=(1, 2), sublinear_tf=True, "
+ },
+ {
+  "i": 11,
+  "type": "code",
+  "start": 24.91,
+  "end": 26.56,
+  "text": "SCORES = {}   # model -> (lab test scores, wild dev scores). PR-AUC needs no threshold, so every model is compared fairly.\ndef report(name, s_te, s_wd):\n    SCORES[name] = (s_te, s_wd)\n    print(f\"{na"
+ },
+ {
+  "i": 12,
+  "type": "markdown",
+  "start": 26.56,
+  "end": 28.09,
+  "text": "# 4 \u00b7 Why does it fail in the wild? Shortcut learning"
+ },
+ {
+  "i": 13,
+  "type": "code",
+  "start": 28.09,
+  "end": 29.66,
+  "text": "URL = r\"(https?://|www\\.|\\b[\\w-]+\\.(com|org|net|xyz|top|li|ly|me|info|site|bd)\\b)\"\nPHONE = r\"(\\+?88)?01[3-9]\\d{8}\"\ndef cues(s):\n    s = str(s); return {\"has link\": bool(re.search(URL, s, re.I)), \"has "
+ },
+ {
+  "i": 14,
+  "type": "code",
+  "start": 29.66,
+  "end": 31.2,
+  "text": "WD = WD.assign(p=SCORES[\"TF-IDF\"][1])\nprint(\"FALSE ALARMS (safe messages flagged):\"); print(WD[(WD.label == \"ham\") & (WD.p >= .5)].nlargest(6, \"p\")[[\"p\", \"message\"]].round(2).to_string(index=False))\np"
+ },
+ {
+  "i": 15,
+  "type": "markdown",
+  "start": 31.2,
+  "end": 32.73,
+  "text": "# 5 \u00b7 Model 2 \u00b7 Multilingual embeddings"
+ },
+ {
+  "i": 16,
+  "type": "code",
+  "start": 32.73,
+  "end": 72.94,
+  "text": "from sentence_transformers import SentenceTransformer\ne5 = SentenceTransformer(\"intfloat/multilingual-e5-base\", device=DEV)\nemb = lambda s: e5.encode([\"query: \" + x for x in s.astype(str)], batch_size"
+ },
+ {
+  "i": 17,
+  "type": "markdown",
+  "start": 72.94,
+  "end": 74.46,
+  "text": "# 6 \u00b7 Model 3 \u00b7 Fine-tune XLM-RoBERTa"
+ },
+ {
+  "i": 18,
+  "type": "code",
+  "start": 74.46,
+  "end": 80.26,
+  "text": "from transformers import AutoTokenizer, AutoModelForSequenceClassification, get_linear_schedule_with_warmup\nLAB = [\"normal\", \"promo\", \"smish\"]; MN = \"xlm-roberta-base\"\ntok = AutoTokenizer.from_pretrai"
+ },
+ {
+  "i": 19,
+  "type": "code",
+  "start": 80.26,
+  "end": 753.84,
+  "text": "X, y = list(TR[\"text\"]), [LAB.index(l) for l in TR[\"label\"]]\nEPOCHS = 3; steps = EPOCHS * int(np.ceil(len(X) / 16))\nopt = torch.optim.AdamW(xlmr.parameters(), lr=2e-5, weight_decay=0.01)\nsched = get_l"
+ },
+ {
+  "i": 20,
+  "type": "markdown",
+  "start": 753.84,
+  "end": 755.38,
+  "text": "# 7 \u00b7 Model 4 \u00b7 Open LLMs, zero-shot"
+ },
+ {
+  "i": 21,
+  "type": "code",
+  "start": 755.38,
+  "end": 756.91,
+  "text": "from transformers import AutoModelForCausalLM\nSYSTEM = (\"You are a fraud analyst for SMS and mobile banking in Bangladesh (bKash, Nagad, Rocket, banks). \"\n          \"A message is a SCAM if it tries to"
+ },
+ {
+  "i": 22,
+  "type": "code",
+  "start": 756.91,
+  "end": 1469.04,
+  "text": "LLMS = {\"TigerLLM-1B (Bangla)\": \"md-nishat-008/TigerLLM-1B-it\", \"Qwen2.5-3B (multilingual)\": \"Qwen/Qwen2.5-3B-Instruct\"}\ndemo = [\"\u0986\u09aa\u09a8\u09be\u09b0 bKash \u098f\u0995\u09be\u0989\u09a8\u09cd\u099f \u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7 \u09ac\u09a8\u09cd\u09a7 \u09b9\u09af\u09bc\u09c7 \u09af\u09be\u09ac\u09c7\u0964 \u098f\u0996\u09a8\u0987 \u09ad\u09c7\u09b0\u09bf\u09ab\u09be\u0987 \u0995\u09b0\u09a4\u09c7 "
+ },
+ {
+  "i": 23,
+  "type": "markdown",
+  "start": 1469.04,
+  "end": 1470.56,
+  "text": "# 8 \u00b7 The locked test (used once)"
+ },
+ {
+  "i": 24,
+  "type": "code",
+  "start": 1470.56,
+  "end": 1475.69,
+  "text": "y_wl = (WL[\"label\"] == \"scam\").values\n# Each model's cut-off is chosen on the wild DEV half, then applied unchanged to the LOCKED half.\ndef best_threshold(y, s):\n    P, R, T = precision_recall_curve(y"
+ },
+ {
+  "i": 25,
+  "type": "markdown",
+  "start": 1475.69,
+  "end": 1477.21,
+  "text": "# 9 \u00b7 ScamGuard reads the messages"
+ },
+ {
+  "i": 26,
+  "type": "code",
+  "start": 1477.21,
+  "end": 1478.84,
+  "text": "pd.DataFrame({\"message\": demo, \"TF-IDF\": tfidf.predict_proba(pd.Series(demo).map(norm))[:, smish],\n              \"XLM-R\": xlmr_probs(demo)[:, 2], **{n.split(\" (\")[0]: v for n, v in DEMO.items()}}).rou"
+ },
+ {
+  "i": 27,
+  "type": "markdown",
+  "start": 1478.84,
+  "end": 1480.36,
+  "text": "## Save results for the video charts"
+ },
+ {
+  "i": 28,
+  "type": "code",
+  "start": 1480.36,
+  "end": 1481.93,
+  "text": "def pr(y, s, n=140):\n    P, R, _ = precision_recall_curve(y, s); i = np.unique(np.linspace(0, len(P) - 1, n).astype(int))\n    return {\"recall\": R[i].round(4).tolist(), \"precision\": P[i].round(4).tolis"
+ }
+]

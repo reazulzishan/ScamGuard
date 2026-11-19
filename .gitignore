@@ -1,0 +1,35 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.log
+# data: download from the sources in REPORT.md (licences allow it, but the repo stays small)
+data/
+scratch/
+# model weights and big artefacts
+reports/*.pt
+# the sellable agent lives in its own private repository
+agent/
+# notebook run copies
+notebooks/_*
+notebooks/*_live.ipynb
+# recording artefacts
+recording/run.webm
+recording/_video/
+recording/lab-settings/
+recording/cells/
+# video: generated builds, voice audio, licensed media
+video/vo/
+video/reels/
+video/shorts/
+video/explain/
+video/full_vertical/
+video/film/assets/
+video/film/compositions/
+video/film/index.html
+video/film/.hyperframes/
+**/.hyperframes/
+**/.thumbnails/
+**/.waveform-cache/
+CLAUDE.md
+AGENTS.md
+.claude/

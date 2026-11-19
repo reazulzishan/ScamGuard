@@ -1,0 +1,74 @@
+[
+ {
+  "text": "Next,",
+  "start": 0.12,
+  "end": 0.41,
+  "id": "w0"
+ },
+ {
+  "text": "can",
+  "start": 0.45,
+  "end": 0.66,
+  "id": "w1"
+ },
+ {
+  "text": "a",
+  "start": 0.66,
+  "end": 0.74,
+  "id": "w2"
+ },
+ {
+  "text": "model",
+  "start": 0.89,
+  "end": 1.11,
+  "id": "w3"
+ },
+ {
+  "text": "that",
+  "start": 1.11,
+  "end": 1.41,
+  "id": "w4"
+ },
+ {
+  "text": "never",
+  "start": 1.41,
+  "end": 1.78,
+  "id": "w5"
+ },
+ {
+  "text": "saw",
+  "start": 1.78,
+  "end": 2.04,
+  "id": "w6"
+ },
+ {
+  "text": "this",
+  "start": 2.04,
+  "end": 2.23,
+  "id": "w7"
+ },
+ {
+  "text": "dataset",
+  "start": 2.37,
+  "end": 2.59,
+  "id": "w8"
+ },
+ {
+  "text": "beat",
+  "start": 2.71,
+  "end": 2.94,
+  "id": "w9"
+ },
+ {
+  "text": "them",
+  "start": 2.94,
+  "end": 3.19,
+  "id": "w10"
+ },
+ {
+  "text": "all?",
+  "start": 3.19,
+  "end": 3.5,
+  "id": "w11"
+ }
+]

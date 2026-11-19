@@ -1,0 +1,176 @@
+[
+ {
+  "text": "and",
+  "start": 0.04,
+  "end": 0.18,
+  "id": "w0"
+ },
+ {
+  "text": "a",
+  "start": 0.18,
+  "end": 0.33,
+  "id": "w1"
+ },
+ {
+  "text": "second,",
+  "start": 0.33,
+  "end": 0.84,
+  "id": "w2"
+ },
+ {
+  "text": "separate",
+  "start": 0.93,
+  "end": 1.4,
+  "id": "w3"
+ },
+ {
+  "text": "set,",
+  "start": 1.4,
+  "end": 1.74,
+  "id": "w4"
+ },
+ {
+  "text": "five",
+  "start": 1.74,
+  "end": 1.86,
+  "id": "w5"
+ },
+ {
+  "text": "hundred",
+  "start": 1.97,
+  "end": 2.28,
+  "id": "w6"
+ },
+ {
+  "text": "and",
+  "start": 2.33,
+  "end": 2.5,
+  "id": "w7"
+ },
+ {
+  "text": "twenty",
+  "start": 2.59,
+  "end": 2.86,
+  "id": "w8"
+ },
+ {
+  "text": "messages",
+  "start": 2.86,
+  "end": 3.29,
+  "id": "w9"
+ },
+ {
+  "text": "collected",
+  "start": 3.4,
+  "end": 3.72,
+  "id": "w10"
+ },
+ {
+  "text": "from",
+  "start": 3.88,
+  "end": 4,
+  "id": "w11"
+ },
+ {
+  "text": "real",
+  "start": 4,
+  "end": 4.28,
+  "id": "w12"
+ },
+ {
+  "text": "people.",
+  "start": 4.28,
+  "end": 5.6,
+  "id": "w13"
+ },
+ {
+  "text": "No",
+  "start": 5.64,
+  "end": 5.77,
+  "id": "w14"
+ },
+ {
+  "text": "model",
+  "start": 5.77,
+  "end": 6.21,
+  "id": "w15"
+ },
+ {
+  "text": "ever",
+  "start": 6.21,
+  "end": 6.56,
+  "id": "w16"
+ },
+ {
+  "text": "trains",
+  "start": 6.56,
+  "end": 7.02,
+  "id": "w17"
+ },
+ {
+  "text": "on",
+  "start": 7.02,
+  "end": 7.32,
+  "id": "w18"
+ },
+ {
+  "text": "it.",
+  "start": 7.32,
+  "end": 7.71,
+  "id": "w19"
+ },
+ {
+  "text": "Half",
+  "start": 7.75,
+  "end": 7.96,
+  "id": "w20"
+ },
+ {
+  "text": "of",
+  "start": 7.96,
+  "end": 8.04,
+  "id": "w21"
+ },
+ {
+  "text": "it",
+  "start": 8.08,
+  "end": 8.2,
+  "id": "w22"
+ },
+ {
+  "text": "stays",
+  "start": 8.2,
+  "end": 8.51,
+  "id": "w23"
+ },
+ {
+  "text": "locked",
+  "start": 8.51,
+  "end": 8.88,
+  "id": "w24"
+ },
+ {
+  "text": "until",
+  "start": 8.88,
+  "end": 9.15,
+  "id": "w25"
+ },
+ {
+  "text": "the",
+  "start": 9.24,
+  "end": 9.32,
+  "id": "w26"
+ },
+ {
+  "text": "very",
+  "start": 9.48,
+  "end": 9.61,
+  "id": "w27"
+ },
+ {
+  "text": "end.",
+  "start": 9.61,
+  "end": 9.93,
+  "id": "w28"
+ }
+]

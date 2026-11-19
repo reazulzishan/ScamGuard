@@ -1,0 +1,146 @@
+[
+ {
+  "text": "Step",
+  "start": 0.17,
+  "end": 0.44,
+  "id": "w0"
+ },
+ {
+  "text": "two,",
+  "start": 0.44,
+  "end": 0.96,
+  "id": "w1"
+ },
+ {
+  "text": "compare",
+  "start": 1.05,
+  "end": 1.7,
+  "id": "w2"
+ },
+ {
+  "text": "vectors.",
+  "start": 1.7,
+  "end": 2.58,
+  "id": "w3"
+ },
+ {
+  "text": "Cosine",
+  "start": 2.75,
+  "end": 2.88,
+  "id": "w4"
+ },
+ {
+  "text": "similarity",
+  "start": 2.98,
+  "end": 3.49,
+  "id": "w5"
+ },
+ {
+  "text": "measures",
+  "start": 3.49,
+  "end": 3.93,
+  "id": "w6"
+ },
+ {
+  "text": "the",
+  "start": 4.05,
+  "end": 4.11,
+  "id": "w7"
+ },
+ {
+  "text": "angle",
+  "start": 4.11,
+  "end": 4.41,
+  "id": "w8"
+ },
+ {
+  "text": "between",
+  "start": 4.41,
+  "end": 4.7,
+  "id": "w9"
+ },
+ {
+  "text": "them.",
+  "start": 5.21,
+  "end": 5.84,
+  "id": "w10"
+ },
+ {
+  "text": "Our",
+  "start": 6.01,
+  "end": 6.13,
+  "id": "w11"
+ },
+ {
+  "text": "scam",
+  "start": 6.13,
+  "end": 6.52,
+  "id": "w12"
+ },
+ {
+  "text": "in",
+  "start": 6.52,
+  "end": 6.71,
+  "id": "w13"
+ },
+ {
+  "text": "another",
+  "start": 6.71,
+  "end": 7.4,
+  "id": "w14"
+ },
+ {
+  "text": "scam,",
+  "start": 7.4,
+  "end": 7.96,
+  "id": "w15"
+ },
+ {
+  "text": "0.83.",
+  "start": 8.27,
+  "end": 9.5,
+  "id": "w16"
+ },
+ {
+  "text": "A",
+  "start": 9.51,
+  "end": 9.59,
+  "id": "w17"
+ },
+ {
+  "text": "promotion,",
+  "start": 9.67,
+  "end": 10.64,
+  "id": "w18"
+ },
+ {
+  "text": "0.82.",
+  "start": 10.64,
+  "end": 12.1,
+  "id": "w19"
+ },
+ {
+  "text": "A",
+  "start": 12.11,
+  "end": 12.17,
+  "id": "w20"
+ },
+ {
+  "text": "normal",
+  "start": 12.27,
+  "end": 12.59,
+  "id": "w21"
+ },
+ {
+  "text": "chat,",
+  "start": 12.59,
+  "end": 13.01,
+  "id": "w22"
+ },
+ {
+  "text": "0.78.",
+  "start": 13.01,
+  "end": 14.09,
+  "id": "w23"
+ }
+]

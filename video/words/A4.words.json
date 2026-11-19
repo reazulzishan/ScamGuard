@@ -1,0 +1,218 @@
+[
+ {
+  "text": "Step",
+  "start": 0.18,
+  "end": 0.29,
+  "id": "w0"
+ },
+ {
+  "text": "3",
+  "start": 0.51,
+  "end": 0.61,
+  "id": "w1"
+ },
+ {
+  "text": "with",
+  "start": 0.61,
+  "end": 0.96,
+  "id": "w2"
+ },
+ {
+  "text": "each",
+  "start": 0.96,
+  "end": 1.31,
+  "id": "w3"
+ },
+ {
+  "text": "piece",
+  "start": 1.31,
+  "end": 1.75,
+  "id": "w4"
+ },
+ {
+  "text": "with",
+  "start": 1.75,
+  "end": 2.1,
+  "id": "w5"
+ },
+ {
+  "text": "TFIDF",
+  "start": 2.1,
+  "end": 2.47,
+  "id": "w6"
+ },
+ {
+  "text": "the",
+  "start": 2.63,
+  "end": 2.67,
+  "id": "w7"
+ },
+ {
+  "text": "piece",
+  "start": 2.73,
+  "end": 2.95,
+  "id": "w8"
+ },
+ {
+  "text": "counts",
+  "start": 3.01,
+  "end": 3.23,
+  "id": "w9"
+ },
+ {
+  "text": "more",
+  "start": 3.37,
+  "end": 3.56,
+  "id": "w10"
+ },
+ {
+  "text": "when",
+  "start": 3.56,
+  "end": 3.71,
+  "id": "w11"
+ },
+ {
+  "text": "it",
+  "start": 3.71,
+  "end": 3.77,
+  "id": "w12"
+ },
+ {
+  "text": "appears",
+  "start": 3.8,
+  "end": 4.19,
+  "id": "w13"
+ },
+ {
+  "text": "in",
+  "start": 4.24,
+  "end": 4.32,
+  "id": "w14"
+ },
+ {
+  "text": "this",
+  "start": 4.32,
+  "end": 4.41,
+  "id": "w15"
+ },
+ {
+  "text": "message.",
+  "start": 4.49,
+  "end": 6.04,
+  "id": "w16"
+ },
+ {
+  "text": "And",
+  "start": 6.22,
+  "end": 6.24,
+  "id": "w17"
+ },
+ {
+  "text": "it",
+  "start": 6.24,
+  "end": 6.33,
+  "id": "w18"
+ },
+ {
+  "text": "counts",
+  "start": 6.55,
+  "end": 6.77,
+  "id": "w19"
+ },
+ {
+  "text": "less",
+  "start": 6.77,
+  "end": 7.04,
+  "id": "w20"
+ },
+ {
+  "text": "when",
+  "start": 7.04,
+  "end": 7.31,
+  "id": "w21"
+ },
+ {
+  "text": "it",
+  "start": 7.31,
+  "end": 7.42,
+  "id": "w22"
+ },
+ {
+  "text": "is",
+  "start": 7.45,
+  "end": 7.57,
+  "id": "w23"
+ },
+ {
+  "text": "common",
+  "start": 7.57,
+  "end": 7.97,
+  "id": "w24"
+ },
+ {
+  "text": "in",
+  "start": 7.97,
+  "end": 8.1,
+  "id": "w25"
+ },
+ {
+  "text": "every",
+  "start": 8.1,
+  "end": 8.43,
+  "id": "w26"
+ },
+ {
+  "text": "message.",
+  "start": 8.43,
+  "end": 9.16,
+  "id": "w27"
+ },
+ {
+  "text": "That",
+  "start": 9.34,
+  "end": 9.41,
+  "id": "w28"
+ },
+ {
+  "text": "second",
+  "start": 9.41,
+  "end": 9.79,
+  "id": "w29"
+ },
+ {
+  "text": "part",
+  "start": 9.79,
+  "end": 10.04,
+  "id": "w30"
+ },
+ {
+  "text": "is",
+  "start": 10.04,
+  "end": 10.16,
+  "id": "w31"
+ },
+ {
+  "text": "the",
+  "start": 10.16,
+  "end": 10.29,
+  "id": "w32"
+ },
+ {
+  "text": "inverse",
+  "start": 10.36,
+  "end": 10.7,
+  "id": "w33"
+ },
+ {
+  "text": "document",
+  "start": 10.8,
+  "end": 11.3,
+  "id": "w34"
+ },
+ {
+  "text": "frequency.",
+  "start": 11.3,
+  "end": 11.92,
+  "id": "w35"
+ }
+]

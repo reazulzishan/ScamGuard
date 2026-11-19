@@ -1,0 +1,122 @@
+[
+ {
+  "text": "This",
+  "start": 0.05,
+  "end": 0.54,
+  "id": "w0"
+ },
+ {
+  "text": "SMS",
+  "start": 0.54,
+  "end": 0.96,
+  "id": "w1"
+ },
+ {
+  "text": "is",
+  "start": 0.96,
+  "end": 1.24,
+  "id": "w2"
+ },
+ {
+  "text": "a",
+  "start": 1.24,
+  "end": 1.33,
+  "id": "w3"
+ },
+ {
+  "text": "scam.",
+  "start": 1.38,
+  "end": 1.96,
+  "id": "w4"
+ },
+ {
+  "text": "Here",
+  "start": 2.01,
+  "end": 2.21,
+  "id": "w5"
+ },
+ {
+  "text": "is",
+  "start": 2.31,
+  "end": 2.38,
+  "id": "w6"
+ },
+ {
+  "text": "exactly",
+  "start": 2.38,
+  "end": 2.74,
+  "id": "w7"
+ },
+ {
+  "text": "how",
+  "start": 2.88,
+  "end": 3.08,
+  "id": "w8"
+ },
+ {
+  "text": "a",
+  "start": 3.08,
+  "end": 3.14,
+  "id": "w9"
+ },
+ {
+  "text": "classic",
+  "start": 3.14,
+  "end": 3.45,
+  "id": "w10"
+ },
+ {
+  "text": "machine",
+  "start": 3.97,
+  "end": 4.06,
+  "id": "w11"
+ },
+ {
+  "text": "learning",
+  "start": 4.06,
+  "end": 4.32,
+  "id": "w12"
+ },
+ {
+  "text": "model",
+  "start": 4.32,
+  "end": 4.64,
+  "id": "w13"
+ },
+ {
+  "text": "decides",
+  "start": 4.69,
+  "end": 5.3,
+  "id": "w14"
+ },
+ {
+  "text": "that",
+  "start": 5.3,
+  "end": 5.68,
+  "id": "w15"
+ },
+ {
+  "text": "step-by-step",
+  "start": 5.68,
+  "end": 6.81,
+  "id": "w16"
+ },
+ {
+  "text": "with",
+  "start": 6.81,
+  "end": 7.18,
+  "id": "w17"
+ },
+ {
+  "text": "real",
+  "start": 7.18,
+  "end": 7.57,
+  "id": "w18"
+ },
+ {
+  "text": "numbers.",
+  "start": 7.57,
+  "end": 8.56,
+  "id": "w19"
+ }
+]

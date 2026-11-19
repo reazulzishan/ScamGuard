@@ -1,0 +1,110 @@
+[
+ {
+  "text": "That",
+  "start": 0.05,
+  "end": 0.25,
+  "id": "w0"
+ },
+ {
+  "text": "is",
+  "start": 0.39,
+  "end": 0.45,
+  "id": "w1"
+ },
+ {
+  "text": "fine",
+  "start": 0.45,
+  "end": 0.7,
+  "id": "w2"
+ },
+ {
+  "text": "tuning.",
+  "start": 0.77,
+  "end": 1.74,
+  "id": "w3"
+ },
+ {
+  "text": "Next,",
+  "start": 1.81,
+  "end": 2.16,
+  "id": "w4"
+ },
+ {
+  "text": "a",
+  "start": 2.16,
+  "end": 2.22,
+  "id": "w5"
+ },
+ {
+  "text": "large",
+  "start": 2.22,
+  "end": 2.56,
+  "id": "w6"
+ },
+ {
+  "text": "language",
+  "start": 2.56,
+  "end": 2.82,
+  "id": "w7"
+ },
+ {
+  "text": "model",
+  "start": 2.82,
+  "end": 3.54,
+  "id": "w8"
+ },
+ {
+  "text": "that",
+  "start": 3.54,
+  "end": 3.6,
+  "id": "w9"
+ },
+ {
+  "text": "was",
+  "start": 3.6,
+  "end": 3.75,
+  "id": "w10"
+ },
+ {
+  "text": "never",
+  "start": 3.75,
+  "end": 3.96,
+  "id": "w11"
+ },
+ {
+  "text": "trained",
+  "start": 4.05,
+  "end": 4.7,
+  "id": "w12"
+ },
+ {
+  "text": "on",
+  "start": 4.77,
+  "end": 4.91,
+  "id": "w13"
+ },
+ {
+  "text": "this",
+  "start": 4.91,
+  "end": 5.06,
+  "id": "w14"
+ },
+ {
+  "text": "data",
+  "start": 5.06,
+  "end": 5.78,
+  "id": "w15"
+ },
+ {
+  "text": "at",
+  "start": 5.78,
+  "end": 5.91,
+  "id": "w16"
+ },
+ {
+  "text": "all.",
+  "start": 5.91,
+  "end": 6.56,
+  "id": "w17"
+ }
+]

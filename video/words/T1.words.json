@@ -1,0 +1,266 @@
+[
+ {
+  "text": "So",
+  "start": 0.12,
+  "end": 0.15,
+  "id": "w0"
+ },
+ {
+  "text": "how",
+  "start": 0.15,
+  "end": 0.37,
+  "id": "w1"
+ },
+ {
+  "text": "does",
+  "start": 0.37,
+  "end": 0.64,
+  "id": "w2"
+ },
+ {
+  "text": "a",
+  "start": 0.71,
+  "end": 0.74,
+  "id": "w3"
+ },
+ {
+  "text": "transformer",
+  "start": 0.74,
+  "end": 1.56,
+  "id": "w4"
+ },
+ {
+  "text": "actually",
+  "start": 1.56,
+  "end": 2.08,
+  "id": "w5"
+ },
+ {
+  "text": "read",
+  "start": 2.08,
+  "end": 2.43,
+  "id": "w6"
+ },
+ {
+  "text": "this?",
+  "start": 2.43,
+  "end": 3,
+  "id": "w7"
+ },
+ {
+  "text": "First,",
+  "start": 3.12,
+  "end": 3.42,
+  "id": "w8"
+ },
+ {
+  "text": "a",
+  "start": 3.42,
+  "end": 3.48,
+  "id": "w9"
+ },
+ {
+  "text": "tokenizer",
+  "start": 3.48,
+  "end": 4.02,
+  "id": "w10"
+ },
+ {
+  "text": "cuts",
+  "start": 4.02,
+  "end": 4.2,
+  "id": "w11"
+ },
+ {
+  "text": "the",
+  "start": 4.27,
+  "end": 4.44,
+  "id": "w12"
+ },
+ {
+  "text": "message",
+  "start": 4.44,
+  "end": 4.83,
+  "id": "w13"
+ },
+ {
+  "text": "into",
+  "start": 4.89,
+  "end": 5.08,
+  "id": "w14"
+ },
+ {
+  "text": "pieces",
+  "start": 5.08,
+  "end": 5.53,
+  "id": "w15"
+ },
+ {
+  "text": "it",
+  "start": 5.53,
+  "end": 6.07,
+  "id": "w16"
+ },
+ {
+  "text": "knows.",
+  "start": 6.07,
+  "end": 6.88,
+  "id": "w17"
+ },
+ {
+  "text": "This",
+  "start": 7,
+  "end": 7.26,
+  "id": "w18"
+ },
+ {
+  "text": "scan",
+  "start": 7.26,
+  "end": 7.64,
+  "id": "w19"
+ },
+ {
+  "text": "becomes",
+  "start": 7.64,
+  "end": 8.32,
+  "id": "w20"
+ },
+ {
+  "text": "26",
+  "start": 8.32,
+  "end": 8.89,
+  "id": "w21"
+ },
+ {
+  "text": "tokens.",
+  "start": 8.89,
+  "end": 9.8,
+  "id": "w22"
+ },
+ {
+  "text": "Look",
+  "start": 9.92,
+  "end": 10.26,
+  "id": "w23"
+ },
+ {
+  "text": "at",
+  "start": 10.26,
+  "end": 10.44,
+  "id": "w24"
+ },
+ {
+  "text": "Bcache.",
+  "start": 10.51,
+  "end": 11.56,
+  "id": "w25"
+ },
+ {
+  "text": "The",
+  "start": 11.68,
+  "end": 11.73,
+  "id": "w26"
+ },
+ {
+  "text": "model",
+  "start": 11.73,
+  "end": 12.01,
+  "id": "w27"
+ },
+ {
+  "text": "has",
+  "start": 12.01,
+  "end": 12.14,
+  "id": "w28"
+ },
+ {
+  "text": "never",
+  "start": 12.18,
+  "end": 12.39,
+  "id": "w29"
+ },
+ {
+  "text": "seen",
+  "start": 12.53,
+  "end": 12.68,
+  "id": "w30"
+ },
+ {
+  "text": "it",
+  "start": 12.68,
+  "end": 12.76,
+  "id": "w31"
+ },
+ {
+  "text": "as",
+  "start": 12.83,
+  "end": 12.9,
+  "id": "w32"
+ },
+ {
+  "text": "one",
+  "start": 12.9,
+  "end": 13.04,
+  "id": "w33"
+ },
+ {
+  "text": "word,",
+  "start": 13.11,
+  "end": 13.32,
+  "id": "w34"
+ },
+ {
+  "text": "so",
+  "start": 13.44,
+  "end": 13.49,
+  "id": "w35"
+ },
+ {
+  "text": "it",
+  "start": 13.49,
+  "end": 13.66,
+  "id": "w36"
+ },
+ {
+  "text": "splits",
+  "start": 13.66,
+  "end": 14.14,
+  "id": "w37"
+ },
+ {
+  "text": "it",
+  "start": 14.29,
+  "end": 14.36,
+  "id": "w38"
+ },
+ {
+  "text": "into",
+  "start": 14.36,
+  "end": 14.69,
+  "id": "w39"
+ },
+ {
+  "text": "B,",
+  "start": 14.75,
+  "end": 14.96,
+  "id": "w40"
+ },
+ {
+  "text": "K,",
+  "start": 14.96,
+  "end": 15.15,
+  "id": "w41"
+ },
+ {
+  "text": "and",
+  "start": 15.21,
+  "end": 15.4,
+  "id": "w42"
+ },
+ {
+  "text": "Ash.",
+  "start": 15.43,
+  "end": 15.85,
+  "id": "w43"
+ }
+]

@@ -1,0 +1,140 @@
+[
+ {
+  "text": "So",
+  "start": 0.14,
+  "end": 0.18,
+  "id": "w0"
+ },
+ {
+  "text": "I",
+  "start": 0.18,
+  "end": 0.27,
+  "id": "w1"
+ },
+ {
+  "text": "tried",
+  "start": 0.27,
+  "end": 0.71,
+  "id": "w2"
+ },
+ {
+  "text": "stronger",
+  "start": 0.71,
+  "end": 1.44,
+  "id": "w3"
+ },
+ {
+  "text": "models.",
+  "start": 1.44,
+  "end": 2.48,
+  "id": "w4"
+ },
+ {
+  "text": "Model",
+  "start": 2.62,
+  "end": 2.84,
+  "id": "w5"
+ },
+ {
+  "text": "two,",
+  "start": 2.89,
+  "end": 3.22,
+  "id": "w6"
+ },
+ {
+  "text": "multilingual",
+  "start": 3.29,
+  "end": 4.03,
+  "id": "w7"
+ },
+ {
+  "text": "embeddings,",
+  "start": 4.03,
+  "end": 4.92,
+  "id": "w8"
+ },
+ {
+  "text": "which",
+  "start": 5.06,
+  "end": 5.21,
+  "id": "w9"
+ },
+ {
+  "text": "turn",
+  "start": 5.21,
+  "end": 5.35,
+  "id": "w10"
+ },
+ {
+  "text": "every",
+  "start": 5.44,
+  "end": 5.71,
+  "id": "w11"
+ },
+ {
+  "text": "message",
+  "start": 5.73,
+  "end": 6.16,
+  "id": "w12"
+ },
+ {
+  "text": "into",
+  "start": 6.16,
+  "end": 6.47,
+  "id": "w13"
+ },
+ {
+  "text": "a",
+  "start": 6.47,
+  "end": 6.54,
+  "id": "w14"
+ },
+ {
+  "text": "vector",
+  "start": 6.54,
+  "end": 6.91,
+  "id": "w15"
+ },
+ {
+  "text": "of",
+  "start": 6.91,
+  "end": 7.41,
+  "id": "w16"
+ },
+ {
+  "text": "meaning.",
+  "start": 7.41,
+  "end": 7.96,
+  "id": "w17"
+ },
+ {
+  "text": "Lab",
+  "start": 8.1,
+  "end": 8.32,
+  "id": "w18"
+ },
+ {
+  "text": "0.997,",
+  "start": 8.37,
+  "end": 10.58,
+  "id": "w19"
+ },
+ {
+  "text": "real",
+  "start": 10.58,
+  "end": 10.9,
+  "id": "w20"
+ },
+ {
+  "text": "messages",
+  "start": 10.9,
+  "end": 11.54,
+  "id": "w21"
+ },
+ {
+  "text": "0.91.",
+  "start": 11.54,
+  "end": 12.6,
+  "id": "w22"
+ }
+]

@@ -1,0 +1,206 @@
+[
+ {
+  "text": "An",
+  "start": 0.07,
+  "end": 0.12,
+  "id": "w0"
+ },
+ {
+  "text": "embedding",
+  "start": 0.12,
+  "end": 0.65,
+  "id": "w1"
+ },
+ {
+  "text": "model",
+  "start": 0.65,
+  "end": 0.94,
+  "id": "w2"
+ },
+ {
+  "text": "reads",
+  "start": 0.94,
+  "end": 1.14,
+  "id": "w3"
+ },
+ {
+  "text": "the",
+  "start": 1.33,
+  "end": 1.43,
+  "id": "w4"
+ },
+ {
+  "text": "whole",
+  "start": 1.48,
+  "end": 1.73,
+  "id": "w5"
+ },
+ {
+  "text": "message",
+  "start": 1.73,
+  "end": 2.15,
+  "id": "w6"
+ },
+ {
+  "text": "and",
+  "start": 2.15,
+  "end": 2.46,
+  "id": "w7"
+ },
+ {
+  "text": "returns",
+  "start": 2.52,
+  "end": 3.24,
+  "id": "w8"
+ },
+ {
+  "text": "768",
+  "start": 3.24,
+  "end": 4.24,
+  "id": "w9"
+ },
+ {
+  "text": "numbers.",
+  "start": 4.24,
+  "end": 5.14,
+  "id": "w10"
+ },
+ {
+  "text": "Messages",
+  "start": 5.63,
+  "end": 6.03,
+  "id": "w11"
+ },
+ {
+  "text": "with",
+  "start": 6.03,
+  "end": 6.26,
+  "id": "w12"
+ },
+ {
+  "text": "a",
+  "start": 6.26,
+  "end": 6.31,
+  "id": "w13"
+ },
+ {
+  "text": "similar",
+  "start": 6.31,
+  "end": 6.7,
+  "id": "w14"
+ },
+ {
+  "text": "meaning",
+  "start": 6.89,
+  "end": 7.13,
+  "id": "w15"
+ },
+ {
+  "text": "line",
+  "start": 7.13,
+  "end": 7.36,
+  "id": "w16"
+ },
+ {
+  "text": "close",
+  "start": 7.36,
+  "end": 7.63,
+  "id": "w17"
+ },
+ {
+  "text": "together",
+  "start": 7.68,
+  "end": 8.16,
+  "id": "w18"
+ },
+ {
+  "text": "in",
+  "start": 8.16,
+  "end": 8.28,
+  "id": "w19"
+ },
+ {
+  "text": "any",
+  "start": 8.41,
+  "end": 8.79,
+  "id": "w20"
+ },
+ {
+  "text": "language.",
+  "start": 8.79,
+  "end": 9.84,
+  "id": "w21"
+ },
+ {
+  "text": "Then",
+  "start": 9.91,
+  "end": 10.07,
+  "id": "w22"
+ },
+ {
+  "text": "a",
+  "start": 10.07,
+  "end": 10.11,
+  "id": "w23"
+ },
+ {
+  "text": "simple",
+  "start": 10.2,
+  "end": 10.47,
+  "id": "w24"
+ },
+ {
+  "text": "logistic",
+  "start": 10.47,
+  "end": 10.93,
+  "id": "w25"
+ },
+ {
+  "text": "regression",
+  "start": 10.93,
+  "end": 11.52,
+  "id": "w26"
+ },
+ {
+  "text": "draws",
+  "start": 11.52,
+  "end": 11.71,
+  "id": "w27"
+ },
+ {
+  "text": "the",
+  "start": 11.83,
+  "end": 11.98,
+  "id": "w28"
+ },
+ {
+  "text": "line",
+  "start": 11.98,
+  "end": 12.24,
+  "id": "w29"
+ },
+ {
+  "text": "between",
+  "start": 12.28,
+  "end": 12.56,
+  "id": "w30"
+ },
+ {
+  "text": "scam",
+  "start": 12.69,
+  "end": 12.89,
+  "id": "w31"
+ },
+ {
+  "text": "and",
+  "start": 12.89,
+  "end": 13.06,
+  "id": "w32"
+ },
+ {
+  "text": "safe.",
+  "start": 13.06,
+  "end": 13.45,
+  "id": "w33"
+ }
+]

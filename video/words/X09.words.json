@@ -1,0 +1,260 @@
+[
+ {
+  "text": "but",
+  "start": 0.06,
+  "end": 0.21,
+  "id": "w0"
+ },
+ {
+  "text": "a",
+  "start": 0.21,
+  "end": 0.37,
+  "id": "w1"
+ },
+ {
+  "text": "score",
+  "start": 0.37,
+  "end": 0.83,
+  "id": "w2"
+ },
+ {
+  "text": "is",
+  "start": 0.83,
+  "end": 1.01,
+  "id": "w3"
+ },
+ {
+  "text": "not",
+  "start": 1.01,
+  "end": 1.29,
+  "id": "w4"
+ },
+ {
+  "text": "a",
+  "start": 1.29,
+  "end": 1.38,
+  "id": "w5"
+ },
+ {
+  "text": "decision.",
+  "start": 1.38,
+  "end": 2.16,
+  "id": "w6"
+ },
+ {
+  "text": "To",
+  "start": 2.22,
+  "end": 2.3,
+  "id": "w7"
+ },
+ {
+  "text": "turn",
+  "start": 2.3,
+  "end": 2.58,
+  "id": "w8"
+ },
+ {
+  "text": "a",
+  "start": 2.58,
+  "end": 2.65,
+  "id": "w9"
+ },
+ {
+  "text": "score",
+  "start": 2.65,
+  "end": 3,
+  "id": "w10"
+ },
+ {
+  "text": "into",
+  "start": 3,
+  "end": 3.18,
+  "id": "w11"
+ },
+ {
+  "text": "a",
+  "start": 3.28,
+  "end": 3.35,
+  "id": "w12"
+ },
+ {
+  "text": "scam",
+  "start": 3.35,
+  "end": 3.63,
+  "id": "w13"
+ },
+ {
+  "text": "or",
+  "start": 3.63,
+  "end": 3.7,
+  "id": "w14"
+ },
+ {
+  "text": "safe,",
+  "start": 3.75,
+  "end": 4.08,
+  "id": "w15"
+ },
+ {
+  "text": "each",
+  "start": 4.14,
+  "end": 4.29,
+  "id": "w16"
+ },
+ {
+  "text": "model",
+  "start": 4.45,
+  "end": 4.8,
+  "id": "w17"
+ },
+ {
+  "text": "needs",
+  "start": 4.8,
+  "end": 5.1,
+  "id": "w18"
+ },
+ {
+  "text": "a",
+  "start": 5.2,
+  "end": 5.28,
+  "id": "w19"
+ },
+ {
+  "text": "cut",
+  "start": 5.28,
+  "end": 5.52,
+  "id": "w20"
+ },
+ {
+  "text": "off.",
+  "start": 5.52,
+  "end": 5.77,
+  "id": "w21"
+ },
+ {
+  "text": "I",
+  "start": 6.1,
+  "end": 6.11,
+  "id": "w22"
+ },
+ {
+  "text": "chose",
+  "start": 6.11,
+  "end": 6.46,
+  "id": "w23"
+ },
+ {
+  "text": "every",
+  "start": 6.46,
+  "end": 6.81,
+  "id": "w24"
+ },
+ {
+  "text": "model's",
+  "start": 6.81,
+  "end": 7.3,
+  "id": "w25"
+ },
+ {
+  "text": "cut",
+  "start": 7.3,
+  "end": 7.51,
+  "id": "w26"
+ },
+ {
+  "text": "off",
+  "start": 7.51,
+  "end": 7.59,
+  "id": "w27"
+ },
+ {
+  "text": "on",
+  "start": 7.82,
+  "end": 7.89,
+  "id": "w28"
+ },
+ {
+  "text": "the",
+  "start": 7.89,
+  "end": 7.96,
+  "id": "w29"
+ },
+ {
+  "text": "open",
+  "start": 8.13,
+  "end": 8.35,
+  "id": "w30"
+ },
+ {
+  "text": "half",
+  "start": 8.35,
+  "end": 8.61,
+  "id": "w31"
+ },
+ {
+  "text": "of",
+  "start": 8.61,
+  "end": 8.74,
+  "id": "w32"
+ },
+ {
+  "text": "the",
+  "start": 8.74,
+  "end": 8.94,
+  "id": "w33"
+ },
+ {
+  "text": "real",
+  "start": 8.94,
+  "end": 9.2,
+  "id": "w34"
+ },
+ {
+  "text": "set",
+  "start": 9.2,
+  "end": 9.31,
+  "id": "w35"
+ },
+ {
+  "text": "and",
+  "start": 9.5,
+  "end": 9.62,
+  "id": "w36"
+ },
+ {
+  "text": "only",
+  "start": 9.62,
+  "end": 9.86,
+  "id": "w37"
+ },
+ {
+  "text": "then",
+  "start": 9.86,
+  "end": 10.04,
+  "id": "w38"
+ },
+ {
+  "text": "open",
+  "start": 10.13,
+  "end": 10.34,
+  "id": "w39"
+ },
+ {
+  "text": "the",
+  "start": 10.34,
+  "end": 10.46,
+  "id": "w40"
+ },
+ {
+  "text": "locked",
+  "start": 10.56,
+  "end": 10.88,
+  "id": "w41"
+ },
+ {
+  "text": "half.",
+  "start": 10.88,
+  "end": 11.13,
+  "id": "w42"
+ }
+]

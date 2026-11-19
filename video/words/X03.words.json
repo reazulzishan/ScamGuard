@@ -1,0 +1,380 @@
+[
+ {
+  "text": "How",
+  "start": 0.08,
+  "end": 0.18,
+  "id": "w0"
+ },
+ {
+  "text": "does",
+  "start": 0.18,
+  "end": 0.43,
+  "id": "w1"
+ },
+ {
+  "text": "it",
+  "start": 0.43,
+  "end": 0.55,
+  "id": "w2"
+ },
+ {
+  "text": "work?",
+  "start": 0.55,
+  "end": 0.98,
+  "id": "w3"
+ },
+ {
+  "text": "T-F-I-D-F",
+  "start": 1.08,
+  "end": 2.18,
+  "id": "w4"
+ },
+ {
+  "text": "can't",
+  "start": 2.43,
+  "end": 2.63,
+  "id": "w5"
+ },
+ {
+  "text": "small",
+  "start": 2.63,
+  "end": 3.08,
+  "id": "w6"
+ },
+ {
+  "text": "pieces",
+  "start": 3.08,
+  "end": 3.59,
+  "id": "w7"
+ },
+ {
+  "text": "of",
+  "start": 3.61,
+  "end": 3.8,
+  "id": "w8"
+ },
+ {
+  "text": "text",
+  "start": 3.8,
+  "end": 4.13,
+  "id": "w9"
+ },
+ {
+  "text": "and",
+  "start": 4.25,
+  "end": 4.32,
+  "id": "w10"
+ },
+ {
+  "text": "gives",
+  "start": 4.39,
+  "end": 4.48,
+  "id": "w11"
+ },
+ {
+  "text": "more",
+  "start": 4.53,
+  "end": 4.8,
+  "id": "w12"
+ },
+ {
+  "text": "weight",
+  "start": 4.8,
+  "end": 5,
+  "id": "w13"
+ },
+ {
+  "text": "to",
+  "start": 5,
+  "end": 5.15,
+  "id": "w14"
+ },
+ {
+  "text": "pieces",
+  "start": 5.27,
+  "end": 5.52,
+  "id": "w15"
+ },
+ {
+  "text": "that",
+  "start": 5.52,
+  "end": 5.67,
+  "id": "w16"
+ },
+ {
+  "text": "are",
+  "start": 5.67,
+  "end": 5.8,
+  "id": "w17"
+ },
+ {
+  "text": "rare",
+  "start": 5.8,
+  "end": 6,
+  "id": "w18"
+ },
+ {
+  "text": "across",
+  "start": 6,
+  "end": 6.32,
+  "id": "w19"
+ },
+ {
+  "text": "messages.",
+  "start": 6.39,
+  "end": 7.32,
+  "id": "w20"
+ },
+ {
+  "text": "I",
+  "start": 7.4,
+  "end": 7.41,
+  "id": "w21"
+ },
+ {
+  "text": "use",
+  "start": 7.41,
+  "end": 7.67,
+  "id": "w22"
+ },
+ {
+  "text": "character",
+  "start": 7.67,
+  "end": 8.06,
+  "id": "w23"
+ },
+ {
+  "text": "pieces",
+  "start": 8.81,
+  "end": 9.03,
+  "id": "w24"
+ },
+ {
+  "text": "two",
+  "start": 9.03,
+  "end": 9.3,
+  "id": "w25"
+ },
+ {
+  "text": "to",
+  "start": 9.3,
+  "end": 9.41,
+  "id": "w26"
+ },
+ {
+  "text": "five",
+  "start": 9.48,
+  "end": 9.79,
+  "id": "w27"
+ },
+ {
+  "text": "letters",
+  "start": 9.89,
+  "end": 10.45,
+  "id": "w28"
+ },
+ {
+  "text": "long",
+  "start": 10.57,
+  "end": 10.77,
+  "id": "w29"
+ },
+ {
+  "text": "plus",
+  "start": 10.84,
+  "end": 11.17,
+  "id": "w30"
+ },
+ {
+  "text": "whole",
+  "start": 11.21,
+  "end": 11.64,
+  "id": "w31"
+ },
+ {
+  "text": "words",
+  "start": 11.64,
+  "end": 12.09,
+  "id": "w32"
+ },
+ {
+  "text": "and",
+  "start": 12.09,
+  "end": 12.34,
+  "id": "w33"
+ },
+ {
+  "text": "word",
+  "start": 12.35,
+  "end": 12.66,
+  "id": "w34"
+ },
+ {
+  "text": "pairs.",
+  "start": 12.75,
+  "end": 13.6,
+  "id": "w35"
+ },
+ {
+  "text": "Character",
+  "start": 13.72,
+  "end": 14.19,
+  "id": "w36"
+ },
+ {
+  "text": "pieces",
+  "start": 14.19,
+  "end": 14.37,
+  "id": "w37"
+ },
+ {
+  "text": "matter",
+  "start": 14.51,
+  "end": 14.62,
+  "id": "w38"
+ },
+ {
+  "text": "here",
+  "start": 15.08,
+  "end": 15.15,
+  "id": "w39"
+ },
+ {
+  "text": "because",
+  "start": 15.15,
+  "end": 15.54,
+  "id": "w40"
+ },
+ {
+  "text": "Banginglish",
+  "start": 15.57,
+  "end": 16.23,
+  "id": "w41"
+ },
+ {
+  "text": "has",
+  "start": 16.23,
+  "end": 16.41,
+  "id": "w42"
+ },
+ {
+  "text": "no",
+  "start": 16.41,
+  "end": 16.45,
+  "id": "w43"
+ },
+ {
+  "text": "fixed",
+  "start": 16.59,
+  "end": 16.77,
+  "id": "w44"
+ },
+ {
+  "text": "spelling.",
+  "start": 16.89,
+  "end": 17.56,
+  "id": "w45"
+ },
+ {
+  "text": "Follow",
+  "start": 17.64,
+  "end": 18,
+  "id": "w46"
+ },
+ {
+  "text": "and",
+  "start": 18,
+  "end": 18.17,
+  "id": "w47"
+ },
+ {
+  "text": "Bollow",
+  "start": 18.24,
+  "end": 18.54,
+  "id": "w48"
+ },
+ {
+  "text": "share",
+  "start": 18.99,
+  "end": 19.03,
+  "id": "w49"
+ },
+ {
+  "text": "most",
+  "start": 19.05,
+  "end": 19.32,
+  "id": "w50"
+ },
+ {
+  "text": "of",
+  "start": 19.32,
+  "end": 19.45,
+  "id": "w51"
+ },
+ {
+  "text": "their",
+  "start": 19.45,
+  "end": 19.83,
+  "id": "w52"
+ },
+ {
+  "text": "letters.",
+  "start": 19.83,
+  "end": 20.6,
+  "id": "w53"
+ },
+ {
+  "text": "Then",
+  "start": 20.68,
+  "end": 20.81,
+  "id": "w54"
+ },
+ {
+  "text": "Logistic",
+  "start": 20.81,
+  "end": 21.21,
+  "id": "w55"
+ },
+ {
+  "text": "Recretion",
+  "start": 21.21,
+  "end": 21.58,
+  "id": "w56"
+ },
+ {
+  "text": "loans",
+  "start": 21.58,
+  "end": 22.04,
+  "id": "w57"
+ },
+ {
+  "text": "one",
+  "start": 22.04,
+  "end": 22.09,
+  "id": "w58"
+ },
+ {
+  "text": "weight",
+  "start": 22.09,
+  "end": 22.4,
+  "id": "w59"
+ },
+ {
+  "text": "for",
+  "start": 22.4,
+  "end": 22.55,
+  "id": "w60"
+ },
+ {
+  "text": "every",
+  "start": 22.55,
+  "end": 22.81,
+  "id": "w61"
+ },
+ {
+  "text": "piece.",
+  "start": 22.81,
+  "end": 23.28,
+  "id": "w62"
+ }
+]

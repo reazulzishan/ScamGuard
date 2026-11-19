@@ -1,0 +1,200 @@
+[
+ {
+  "text": "This",
+  "start": 0.06,
+  "end": 0.33,
+  "id": "w0"
+ },
+ {
+  "text": "is",
+  "start": 0.41,
+  "end": 0.46,
+  "id": "w1"
+ },
+ {
+  "text": "the",
+  "start": 0.52,
+  "end": 0.78,
+  "id": "w2"
+ },
+ {
+  "text": "key",
+  "start": 0.78,
+  "end": 1.03,
+  "id": "w3"
+ },
+ {
+  "text": "lesson.",
+  "start": 1.03,
+  "end": 1.86,
+  "id": "w4"
+ },
+ {
+  "text": "A",
+  "start": 1.86,
+  "end": 1.92,
+  "id": "w5"
+ },
+ {
+  "text": "model",
+  "start": 1.92,
+  "end": 2.19,
+  "id": "w6"
+ },
+ {
+  "text": "can",
+  "start": 2.28,
+  "end": 2.45,
+  "id": "w7"
+ },
+ {
+  "text": "learn",
+  "start": 2.46,
+  "end": 2.75,
+  "id": "w8"
+ },
+ {
+  "text": "a",
+  "start": 2.75,
+  "end": 2.87,
+  "id": "w9"
+ },
+ {
+  "text": "dataset",
+  "start": 2.87,
+  "end": 3.11,
+  "id": "w10"
+ },
+ {
+  "text": "perfectly",
+  "start": 3.78,
+  "end": 3.84,
+  "id": "w11"
+ },
+ {
+  "text": "and",
+  "start": 3.84,
+  "end": 3.98,
+  "id": "w12"
+ },
+ {
+  "text": "still",
+  "start": 3.98,
+  "end": 4.2,
+  "id": "w13"
+ },
+ {
+  "text": "miss",
+  "start": 4.27,
+  "end": 4.48,
+  "id": "w14"
+ },
+ {
+  "text": "the",
+  "start": 4.48,
+  "end": 4.6,
+  "id": "w15"
+ },
+ {
+  "text": "idea",
+  "start": 4.6,
+  "end": 4.9,
+  "id": "w16"
+ },
+ {
+  "text": "behind",
+  "start": 4.9,
+  "end": 5.78,
+  "id": "w17"
+ },
+ {
+  "text": "it.",
+  "start": 5.78,
+  "end": 6.1,
+  "id": "w18"
+ },
+ {
+  "text": "0.999",
+  "start": 6.17,
+  "end": 6.56,
+  "id": "w19"
+ },
+ {
+  "text": "in",
+  "start": 6.56,
+  "end": 6.62,
+  "id": "w20"
+ },
+ {
+  "text": "a",
+  "start": 6.62,
+  "end": 6.65,
+  "id": "w21"
+ },
+ {
+  "text": "lab",
+  "start": 6.65,
+  "end": 6.74,
+  "id": "w22"
+ },
+ {
+  "text": "means",
+  "start": 6.74,
+  "end": 6.9,
+  "id": "w23"
+ },
+ {
+  "text": "amasses",
+  "start": 6.9,
+  "end": 8.7,
+  "id": "w24"
+ },
+ {
+  "text": "of",
+  "start": 8.7,
+  "end": 8.83,
+  "id": "w25"
+ },
+ {
+  "text": "these",
+  "start": 8.83,
+  "end": 9.15,
+  "id": "w26"
+ },
+ {
+  "text": "7000",
+  "start": 9.15,
+  "end": 9.94,
+  "id": "w27"
+ },
+ {
+  "text": "messages,",
+  "start": 9.94,
+  "end": 10.48,
+  "id": "w28"
+ },
+ {
+  "text": "not",
+  "start": 10.67,
+  "end": 10.73,
+  "id": "w29"
+ },
+ {
+  "text": "scams",
+  "start": 10.73,
+  "end": 11.11,
+  "id": "w30"
+ },
+ {
+  "text": "in",
+  "start": 11.11,
+  "end": 11.26,
+  "id": "w31"
+ },
+ {
+  "text": "general.",
+  "start": 11.26,
+  "end": 11.84,
+  "id": "w32"
+ }
+]

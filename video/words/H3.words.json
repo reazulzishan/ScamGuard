@@ -1,0 +1,98 @@
+[
+ {
+  "text": "One",
+  "start": 0.06,
+  "end": 0.25,
+  "id": "w0"
+ },
+ {
+  "text": "SNS,",
+  "start": 0.25,
+  "end": 0.66,
+  "id": "w1"
+ },
+ {
+  "text": "two",
+  "start": 0.88,
+  "end": 0.92,
+  "id": "w2"
+ },
+ {
+  "text": "language",
+  "start": 0.92,
+  "end": 1.61,
+  "id": "w3"
+ },
+ {
+  "text": "models.",
+  "start": 1.61,
+  "end": 2.8,
+  "id": "w4"
+ },
+ {
+  "text": "One",
+  "start": 2.86,
+  "end": 3,
+  "id": "w5"
+ },
+ {
+  "text": "built",
+  "start": 3,
+  "end": 3.34,
+  "id": "w6"
+ },
+ {
+  "text": "for",
+  "start": 3.34,
+  "end": 3.46,
+  "id": "w7"
+ },
+ {
+  "text": "Bengali,",
+  "start": 3.68,
+  "end": 4.16,
+  "id": "w8"
+ },
+ {
+  "text": "one",
+  "start": 4.16,
+  "end": 4.51,
+  "id": "w9"
+ },
+ {
+  "text": "global.",
+  "start": 4.51,
+  "end": 5.56,
+  "id": "w10"
+ },
+ {
+  "text": "Which",
+  "start": 5.62,
+  "end": 5.84,
+  "id": "w11"
+ },
+ {
+  "text": "one",
+  "start": 5.84,
+  "end": 5.99,
+  "id": "w12"
+ },
+ {
+  "text": "catches",
+  "start": 5.99,
+  "end": 6.22,
+  "id": "w13"
+ },
+ {
+  "text": "this",
+  "start": 6.44,
+  "end": 6.61,
+  "id": "w14"
+ },
+ {
+  "text": "cam?",
+  "start": 6.61,
+  "end": 6.96,
+  "id": "w15"
+ }
+]

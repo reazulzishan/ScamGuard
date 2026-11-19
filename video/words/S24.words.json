@@ -1,0 +1,194 @@
+[
+ {
+  "text": "and",
+  "start": 0.05,
+  "end": 0.23,
+  "id": "w0"
+ },
+ {
+  "text": "the",
+  "start": 0.23,
+  "end": 0.46,
+  "id": "w1"
+ },
+ {
+  "text": "winner,",
+  "start": 0.46,
+  "end": 1.07,
+  "id": "w2"
+ },
+ {
+  "text": "Quinn,",
+  "start": 1.07,
+  "end": 1.59,
+  "id": "w3"
+ },
+ {
+  "text": "scored",
+  "start": 1.61,
+  "end": 2.06,
+  "id": "w4"
+ },
+ {
+  "text": "0.96.",
+  "start": 2.06,
+  "end": 3.71,
+  "id": "w5"
+ },
+ {
+  "text": "It",
+  "start": 3.77,
+  "end": 3.87,
+  "id": "w6"
+ },
+ {
+  "text": "caught",
+  "start": 3.87,
+  "end": 4.33,
+  "id": "w7"
+ },
+ {
+  "text": "89%",
+  "start": 4.33,
+  "end": 4.86,
+  "id": "w8"
+ },
+ {
+  "text": "of",
+  "start": 4.86,
+  "end": 4.94,
+  "id": "w9"
+ },
+ {
+  "text": "the",
+  "start": 5.22,
+  "end": 5.23,
+  "id": "w10"
+ },
+ {
+  "text": "scams",
+  "start": 5.33,
+  "end": 5.64,
+  "id": "w11"
+ },
+ {
+  "text": "with",
+  "start": 5.64,
+  "end": 6.09,
+  "id": "w12"
+ },
+ {
+  "text": "16%",
+  "start": 6.09,
+  "end": 6.87,
+  "id": "w13"
+ },
+ {
+  "text": "false",
+  "start": 6.88,
+  "end": 7.45,
+  "id": "w14"
+ },
+ {
+  "text": "alarms.",
+  "start": 7.48,
+  "end": 8.16,
+  "id": "w15"
+ },
+ {
+  "text": "The",
+  "start": 8.21,
+  "end": 8.33,
+  "id": "w16"
+ },
+ {
+  "text": "fine-tuned",
+  "start": 8.33,
+  "end": 8.81,
+  "id": "w17"
+ },
+ {
+  "text": "transformer",
+  "start": 8.96,
+  "end": 9.38,
+  "id": "w18"
+ },
+ {
+  "text": "and",
+  "start": 9.74,
+  "end": 9.93,
+  "id": "w19"
+ },
+ {
+  "text": "TFIDF-raised",
+  "start": 10.05,
+  "end": 11.04,
+  "id": "w20"
+ },
+ {
+  "text": "false",
+  "start": 11.04,
+  "end": 11.41,
+  "id": "w21"
+ },
+ {
+  "text": "alarms",
+  "start": 11.41,
+  "end": 11.91,
+  "id": "w22"
+ },
+ {
+  "text": "are",
+  "start": 11.91,
+  "end": 12.03,
+  "id": "w23"
+ },
+ {
+  "text": "more",
+  "start": 12.03,
+  "end": 12.26,
+  "id": "w24"
+ },
+ {
+  "text": "than",
+  "start": 12.26,
+  "end": 12.49,
+  "id": "w25"
+ },
+ {
+  "text": "four",
+  "start": 12.49,
+  "end": 12.71,
+  "id": "w26"
+ },
+ {
+  "text": "out",
+  "start": 12.77,
+  "end": 12.89,
+  "id": "w27"
+ },
+ {
+  "text": "of",
+  "start": 12.89,
+  "end": 13,
+  "id": "w28"
+ },
+ {
+  "text": "10",
+  "start": 13,
+  "end": 13.08,
+  "id": "w29"
+ },
+ {
+  "text": "safe",
+  "start": 13.44,
+  "end": 13.57,
+  "id": "w30"
+ },
+ {
+  "text": "messages.",
+  "start": 13.57,
+  "end": 14.24,
+  "id": "w31"
+ }
+]

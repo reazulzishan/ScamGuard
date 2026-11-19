@@ -1,0 +1,116 @@
+[
+ {
+  "text": "This",
+  "start": 0.04,
+  "end": 0.22,
+  "id": "w0"
+ },
+ {
+  "text": "is",
+  "start": 0.22,
+  "end": 0.33,
+  "id": "w1"
+ },
+ {
+  "text": "what",
+  "start": 0.33,
+  "end": 0.55,
+  "id": "w2"
+ },
+ {
+  "text": "happens",
+  "start": 0.55,
+  "end": 0.94,
+  "id": "w3"
+ },
+ {
+  "text": "inside",
+  "start": 0.94,
+  "end": 1.27,
+  "id": "w4"
+ },
+ {
+  "text": "a",
+  "start": 1.27,
+  "end": 1.3,
+  "id": "w5"
+ },
+ {
+  "text": "transformer",
+  "start": 1.35,
+  "end": 1.96,
+  "id": "w6"
+ },
+ {
+  "text": "when",
+  "start": 1.96,
+  "end": 2.14,
+  "id": "w7"
+ },
+ {
+  "text": "it",
+  "start": 2.14,
+  "end": 2.19,
+  "id": "w8"
+ },
+ {
+  "text": "reads",
+  "start": 2.27,
+  "end": 2.5,
+  "id": "w9"
+ },
+ {
+  "text": "the",
+  "start": 2.6,
+  "end": 3.58,
+  "id": "w10"
+ },
+ {
+  "text": "SCAM",
+  "start": 3.85,
+  "end": 5,
+  "id": "w11"
+ },
+ {
+  "text": "SMS,",
+  "start": 5,
+  "end": 5.05,
+  "id": "w12"
+ },
+ {
+  "text": "real",
+  "start": 5.05,
+  "end": 5.09,
+  "id": "w13"
+ },
+ {
+  "text": "tokens,",
+  "start": 5.09,
+  "end": 5.17,
+  "id": "w14"
+ },
+ {
+  "text": "real",
+  "start": 5.17,
+  "end": 5.22,
+  "id": "w15"
+ },
+ {
+  "text": "attention,",
+  "start": 5.22,
+  "end": 6,
+  "id": "w16"
+ },
+ {
+  "text": "real",
+  "start": 6.05,
+  "end": 6.23,
+  "id": "w17"
+ },
+ {
+  "text": "training.",
+  "start": 6.23,
+  "end": 6.84,
+  "id": "w18"
+ }
+]

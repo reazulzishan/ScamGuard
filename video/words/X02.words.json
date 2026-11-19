@@ -1,0 +1,302 @@
+[
+ {
+  "text": "Why",
+  "start": 0.06,
+  "end": 0.24,
+  "id": "w0"
+ },
+ {
+  "text": "does",
+  "start": 0.26,
+  "end": 0.49,
+  "id": "w1"
+ },
+ {
+  "text": "this",
+  "start": 0.59,
+  "end": 0.93,
+  "id": "w2"
+ },
+ {
+  "text": "matter?",
+  "start": 0.93,
+  "end": 1.71,
+  "id": "w3"
+ },
+ {
+  "text": "If",
+  "start": 1.78,
+  "end": 1.83,
+  "id": "w4"
+ },
+ {
+  "text": "the",
+  "start": 1.83,
+  "end": 2,
+  "id": "w5"
+ },
+ {
+  "text": "same",
+  "start": 2,
+  "end": 2.21,
+  "id": "w6"
+ },
+ {
+  "text": "template",
+  "start": 2.31,
+  "end": 2.67,
+  "id": "w7"
+ },
+ {
+  "text": "sits",
+  "start": 2.67,
+  "end": 2.76,
+  "id": "w8"
+ },
+ {
+  "text": "in",
+  "start": 2.86,
+  "end": 2.97,
+  "id": "w9"
+ },
+ {
+  "text": "training",
+  "start": 3.43,
+  "end": 3.45,
+  "id": "w10"
+ },
+ {
+  "text": "and",
+  "start": 3.48,
+  "end": 3.54,
+  "id": "w11"
+ },
+ {
+  "text": "in",
+  "start": 3.67,
+  "end": 3.73,
+  "id": "w12"
+ },
+ {
+  "text": "tests,",
+  "start": 3.85,
+  "end": 4.08,
+  "id": "w13"
+ },
+ {
+  "text": "a",
+  "start": 4.14,
+  "end": 4.17,
+  "id": "w14"
+ },
+ {
+  "text": "model",
+  "start": 4.17,
+  "end": 4.57,
+  "id": "w15"
+ },
+ {
+  "text": "is",
+  "start": 4.67,
+  "end": 4.84,
+  "id": "w16"
+ },
+ {
+  "text": "not",
+  "start": 4.84,
+  "end": 5.11,
+  "id": "w17"
+ },
+ {
+  "text": "detecting",
+  "start": 5.11,
+  "end": 5.9,
+  "id": "w18"
+ },
+ {
+  "text": "scams.",
+  "start": 6.03,
+  "end": 6.68,
+  "id": "w19"
+ },
+ {
+  "text": "It",
+  "start": 6.84,
+  "end": 6.96,
+  "id": "w20"
+ },
+ {
+  "text": "is",
+  "start": 6.96,
+  "end": 7.11,
+  "id": "w21"
+ },
+ {
+  "text": "remembering",
+  "start": 7.22,
+  "end": 7.81,
+  "id": "w22"
+ },
+ {
+  "text": "sentences.",
+  "start": 8.54,
+  "end": 9.24,
+  "id": "w23"
+ },
+ {
+  "text": "Look",
+  "start": 9.3,
+  "end": 9.45,
+  "id": "w24"
+ },
+ {
+  "text": "at",
+  "start": 9.45,
+  "end": 9.55,
+  "id": "w25"
+ },
+ {
+  "text": "these",
+  "start": 9.55,
+  "end": 9.73,
+  "id": "w26"
+ },
+ {
+  "text": "two,",
+  "start": 9.83,
+  "end": 10.08,
+  "id": "w27"
+ },
+ {
+  "text": "the",
+  "start": 10.08,
+  "end": 10.23,
+  "id": "w28"
+ },
+ {
+  "text": "same",
+  "start": 10.23,
+  "end": 10.4,
+  "id": "w29"
+ },
+ {
+  "text": "words,",
+  "start": 10.42,
+  "end": 10.8,
+  "id": "w30"
+ },
+ {
+  "text": "a",
+  "start": 10.8,
+  "end": 11,
+  "id": "w31"
+ },
+ {
+  "text": "different",
+  "start": 11,
+  "end": 11.54,
+  "id": "w32"
+ },
+ {
+  "text": "number.",
+  "start": 11.57,
+  "end": 12.28,
+  "id": "w33"
+ },
+ {
+  "text": "After",
+  "start": 12.34,
+  "end": 12.61,
+  "id": "w34"
+ },
+ {
+  "text": "grouping,",
+  "start": 12.72,
+  "end": 13.31,
+  "id": "w35"
+ },
+ {
+  "text": "5,495",
+  "start": 13.31,
+  "end": 14.85,
+  "id": "w36"
+ },
+ {
+  "text": "grouped",
+  "start": 14.85,
+  "end": 15.59,
+  "id": "w37"
+ },
+ {
+  "text": "remained",
+  "start": 15.59,
+  "end": 16.46,
+  "id": "w38"
+ },
+ {
+  "text": "and",
+  "start": 16.52,
+  "end": 16.65,
+  "id": "w39"
+ },
+ {
+  "text": "every",
+  "start": 16.65,
+  "end": 16.95,
+  "id": "w40"
+ },
+ {
+  "text": "group",
+  "start": 17.05,
+  "end": 17.31,
+  "id": "w41"
+ },
+ {
+  "text": "lies",
+  "start": 17.31,
+  "end": 17.49,
+  "id": "w42"
+ },
+ {
+  "text": "on",
+  "start": 17.56,
+  "end": 17.7,
+  "id": "w43"
+ },
+ {
+  "text": "one",
+  "start": 17.7,
+  "end": 17.71,
+  "id": "w44"
+ },
+ {
+  "text": "side",
+  "start": 17.71,
+  "end": 18.22,
+  "id": "w45"
+ },
+ {
+  "text": "of",
+  "start": 18.22,
+  "end": 18.28,
+  "id": "w46"
+ },
+ {
+  "text": "the",
+  "start": 18.28,
+  "end": 18.47,
+  "id": "w47"
+ },
+ {
+  "text": "split",
+  "start": 18.47,
+  "end": 18.76,
+  "id": "w48"
+ },
+ {
+  "text": "only.",
+  "start": 18.85,
+  "end": 19.24,
+  "id": "w49"
+ }
+]

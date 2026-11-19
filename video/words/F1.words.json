@@ -1,0 +1,86 @@
+[
+ {
+  "text": "Why",
+  "start": 0.04,
+  "end": 0.24,
+  "id": "w0"
+ },
+ {
+  "text": "does",
+  "start": 0.24,
+  "end": 0.56,
+  "id": "w1"
+ },
+ {
+  "text": "an",
+  "start": 0.56,
+  "end": 0.72,
+  "id": "w2"
+ },
+ {
+  "text": "almost",
+  "start": 0.72,
+  "end": 1.16,
+  "id": "w3"
+ },
+ {
+  "text": "perfect",
+  "start": 1.28,
+  "end": 1.78,
+  "id": "w4"
+ },
+ {
+  "text": "model",
+  "start": 1.78,
+  "end": 2.18,
+  "id": "w5"
+ },
+ {
+  "text": "fail",
+  "start": 2.18,
+  "end": 2.49,
+  "id": "w6"
+ },
+ {
+  "text": "on",
+  "start": 2.49,
+  "end": 2.66,
+  "id": "w7"
+ },
+ {
+  "text": "real",
+  "start": 2.66,
+  "end": 2.84,
+  "id": "w8"
+ },
+ {
+  "text": "scans?",
+  "start": 2.84,
+  "end": 3.68,
+  "id": "w9"
+ },
+ {
+  "text": "Watch",
+  "start": 3.72,
+  "end": 4,
+  "id": "w10"
+ },
+ {
+  "text": "the",
+  "start": 4.07,
+  "end": 4.23,
+  "id": "w11"
+ },
+ {
+  "text": "next",
+  "start": 4.23,
+  "end": 4.46,
+  "id": "w12"
+ },
+ {
+  "text": "part.",
+  "start": 4.64,
+  "end": 4.84,
+  "id": "w13"
+ }
+]

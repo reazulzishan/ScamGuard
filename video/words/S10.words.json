@@ -1,0 +1,92 @@
+[
+ {
+  "text": "Then",
+  "start": 0.05,
+  "end": 0.4,
+  "id": "w0"
+ },
+ {
+  "text": "I",
+  "start": 0.4,
+  "end": 0.5,
+  "id": "w1"
+ },
+ {
+  "text": "gave",
+  "start": 0.5,
+  "end": 0.9,
+  "id": "w2"
+ },
+ {
+  "text": "it",
+  "start": 0.9,
+  "end": 1.1,
+  "id": "w3"
+ },
+ {
+  "text": "the",
+  "start": 1.1,
+  "end": 1.36,
+  "id": "w4"
+ },
+ {
+  "text": "real",
+  "start": 1.48,
+  "end": 1.8,
+  "id": "w5"
+ },
+ {
+  "text": "messages,",
+  "start": 1.8,
+  "end": 2.89,
+  "id": "w6"
+ },
+ {
+  "text": "0.92,",
+  "start": 2.89,
+  "end": 4.53,
+  "id": "w7"
+ },
+ {
+  "text": "and",
+  "start": 4.53,
+  "end": 4.6,
+  "id": "w8"
+ },
+ {
+  "text": "it",
+  "start": 4.77,
+  "end": 4.78,
+  "id": "w9"
+ },
+ {
+  "text": "started",
+  "start": 4.78,
+  "end": 5.12,
+  "id": "w10"
+ },
+ {
+  "text": "making",
+  "start": 5.12,
+  "end": 5.4,
+  "id": "w11"
+ },
+ {
+  "text": "very",
+  "start": 5.45,
+  "end": 5.64,
+  "id": "w12"
+ },
+ {
+  "text": "strange",
+  "start": 5.64,
+  "end": 6.02,
+  "id": "w13"
+ },
+ {
+  "text": "mistakes.",
+  "start": 6.06,
+  "end": 6.74,
+  "id": "w14"
+ }
+]

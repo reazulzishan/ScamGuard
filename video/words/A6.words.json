@@ -1,0 +1,92 @@
+[
+ {
+  "text": "Step",
+  "start": 0.2,
+  "end": 0.33,
+  "id": "w0"
+ },
+ {
+  "text": "five,",
+  "start": 0.44,
+  "end": 1,
+  "id": "w1"
+ },
+ {
+  "text": "Softmax",
+  "start": 1,
+  "end": 1.32,
+  "id": "w2"
+ },
+ {
+  "text": "turns",
+  "start": 1.35,
+  "end": 1.61,
+  "id": "w3"
+ },
+ {
+  "text": "the",
+  "start": 1.61,
+  "end": 1.72,
+  "id": "w4"
+ },
+ {
+  "text": "three",
+  "start": 1.8,
+  "end": 2.02,
+  "id": "w5"
+ },
+ {
+  "text": "class",
+  "start": 2.07,
+  "end": 2.28,
+  "id": "w6"
+ },
+ {
+  "text": "scores",
+  "start": 2.44,
+  "end": 2.64,
+  "id": "w7"
+ },
+ {
+  "text": "into",
+  "start": 2.7,
+  "end": 3.01,
+  "id": "w8"
+ },
+ {
+  "text": "probabilities.",
+  "start": 3.01,
+  "end": 4.34,
+  "id": "w9"
+ },
+ {
+  "text": "Scam,",
+  "start": 4.42,
+  "end": 5.04,
+  "id": "w10"
+ },
+ {
+  "text": "98%.",
+  "start": 5.31,
+  "end": 6.63,
+  "id": "w11"
+ },
+ {
+  "text": "The",
+  "start": 6.63,
+  "end": 6.98,
+  "id": "w12"
+ },
+ {
+  "text": "answer,",
+  "start": 6.98,
+  "end": 7.47,
+  "id": "w13"
+ },
+ {
+  "text": "scam.",
+  "start": 7.47,
+  "end": 7.94,
+  "id": "w14"
+ }
+]

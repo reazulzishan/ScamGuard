@@ -1,0 +1,170 @@
+[
+ {
+  "text": "Step",
+  "start": 0.19,
+  "end": 0.26,
+  "id": "w0"
+ },
+ {
+  "text": "1,",
+  "start": 0.26,
+  "end": 0.59,
+  "id": "w1"
+ },
+ {
+  "text": "a",
+  "start": 0.59,
+  "end": 0.61,
+  "id": "w2"
+ },
+ {
+  "text": "multilingual",
+  "start": 0.65,
+  "end": 1.44,
+  "id": "w3"
+ },
+ {
+  "text": "model",
+  "start": 1.44,
+  "end": 1.77,
+  "id": "w4"
+ },
+ {
+  "text": "called",
+  "start": 1.77,
+  "end": 2.06,
+  "id": "w5"
+ },
+ {
+  "text": "E5",
+  "start": 2.18,
+  "end": 2.48,
+  "id": "w6"
+ },
+ {
+  "text": "reads",
+  "start": 2.48,
+  "end": 2.65,
+  "id": "w7"
+ },
+ {
+  "text": "the",
+  "start": 2.79,
+  "end": 2.88,
+  "id": "w8"
+ },
+ {
+  "text": "whole",
+  "start": 2.94,
+  "end": 3.08,
+  "id": "w9"
+ },
+ {
+  "text": "message",
+  "start": 3.08,
+  "end": 3.54,
+  "id": "w10"
+ },
+ {
+  "text": "and",
+  "start": 3.54,
+  "end": 3.61,
+  "id": "w11"
+ },
+ {
+  "text": "turns",
+  "start": 3.65,
+  "end": 3.96,
+  "id": "w12"
+ },
+ {
+  "text": "it",
+  "start": 4.06,
+  "end": 4.15,
+  "id": "w13"
+ },
+ {
+  "text": "into",
+  "start": 4.17,
+  "end": 4.68,
+  "id": "w14"
+ },
+ {
+  "text": "768",
+  "start": 4.68,
+  "end": 5.88,
+  "id": "w15"
+ },
+ {
+  "text": "numbers.",
+  "start": 5.88,
+  "end": 7.28,
+  "id": "w16"
+ },
+ {
+  "text": "This",
+  "start": 7.47,
+  "end": 7.51,
+  "id": "w17"
+ },
+ {
+  "text": "is",
+  "start": 7.51,
+  "end": 7.56,
+  "id": "w18"
+ },
+ {
+  "text": "the",
+  "start": 7.66,
+  "end": 7.79,
+  "id": "w19"
+ },
+ {
+  "text": "start",
+  "start": 7.79,
+  "end": 8.08,
+  "id": "w20"
+ },
+ {
+  "text": "of",
+  "start": 8.08,
+  "end": 8.15,
+  "id": "w21"
+ },
+ {
+  "text": "the",
+  "start": 8.26,
+  "end": 8.36,
+  "id": "w22"
+ },
+ {
+  "text": "vector",
+  "start": 8.36,
+  "end": 8.7,
+  "id": "w23"
+ },
+ {
+  "text": "for",
+  "start": 8.7,
+  "end": 8.85,
+  "id": "w24"
+ },
+ {
+  "text": "our",
+  "start": 8.92,
+  "end": 9.04,
+  "id": "w25"
+ },
+ {
+  "text": "BCAS",
+  "start": 9.04,
+  "end": 9.26,
+  "id": "w26"
+ },
+ {
+  "text": "scam.",
+  "start": 9.26,
+  "end": 9.65,
+  "id": "w27"
+ }
+]

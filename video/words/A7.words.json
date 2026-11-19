@@ -1,0 +1,122 @@
+[
+ {
+  "text": "Fast",
+  "start": 0.08,
+  "end": 0.23,
+  "id": "w0"
+ },
+ {
+  "text": "explainable",
+  "start": 0.34,
+  "end": 1.25,
+  "id": "w1"
+ },
+ {
+  "text": "and",
+  "start": 1.25,
+  "end": 1.5,
+  "id": "w2"
+ },
+ {
+  "text": "it",
+  "start": 1.5,
+  "end": 1.66,
+  "id": "w3"
+ },
+ {
+  "text": "runs",
+  "start": 1.66,
+  "end": 1.99,
+  "id": "w4"
+ },
+ {
+  "text": "anywhere,",
+  "start": 1.99,
+  "end": 2.71,
+  "id": "w5"
+ },
+ {
+  "text": "but",
+  "start": 2.77,
+  "end": 2.85,
+  "id": "w6"
+ },
+ {
+  "text": "it",
+  "start": 2.95,
+  "end": 3.02,
+  "id": "w7"
+ },
+ {
+  "text": "only",
+  "start": 3.08,
+  "end": 3.38,
+  "id": "w8"
+ },
+ {
+  "text": "knows",
+  "start": 3.38,
+  "end": 3.7,
+  "id": "w9"
+ },
+ {
+  "text": "pieces",
+  "start": 3.8,
+  "end": 4.16,
+  "id": "w10"
+ },
+ {
+  "text": "it",
+  "start": 4.24,
+  "end": 4.34,
+  "id": "w11"
+ },
+ {
+  "text": "has",
+  "start": 4.34,
+  "end": 4.44,
+  "id": "w12"
+ },
+ {
+  "text": "seen",
+  "start": 4.6,
+  "end": 4.72,
+  "id": "w13"
+ },
+ {
+  "text": "before.",
+  "start": 4.72,
+  "end": 5.88,
+  "id": "w14"
+ },
+ {
+  "text": "Next",
+  "start": 5.96,
+  "end": 6.11,
+  "id": "w15"
+ },
+ {
+  "text": "how",
+  "start": 6.22,
+  "end": 6.32,
+  "id": "w16"
+ },
+ {
+  "text": "model",
+  "start": 6.41,
+  "end": 6.64,
+  "id": "w17"
+ },
+ {
+  "text": "understands",
+  "start": 6.69,
+  "end": 7.36,
+  "id": "w18"
+ },
+ {
+  "text": "meaning.",
+  "start": 7.36,
+  "end": 7.84,
+  "id": "w19"
+ }
+]

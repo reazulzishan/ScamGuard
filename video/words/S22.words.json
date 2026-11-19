@@ -1,0 +1,104 @@
+[
+ {
+  "text": "On",
+  "start": 0.05,
+  "end": 0.1,
+  "id": "w0"
+ },
+ {
+  "text": "the",
+  "start": 0.1,
+  "end": 0.26,
+  "id": "w1"
+ },
+ {
+  "text": "real",
+  "start": 0.26,
+  "end": 0.47,
+  "id": "w2"
+ },
+ {
+  "text": "messages,",
+  "start": 0.47,
+  "end": 1.01,
+  "id": "w3"
+ },
+ {
+  "text": "Tiger",
+  "start": 1.1,
+  "end": 1.64,
+  "id": "w4"
+ },
+ {
+  "text": "LLM",
+  "start": 1.64,
+  "end": 1.95,
+  "id": "w5"
+ },
+ {
+  "text": "scored",
+  "start": 2.13,
+  "end": 2.69,
+  "id": "w6"
+ },
+ {
+  "text": "0.81.",
+  "start": 2.85,
+  "end": 4.18,
+  "id": "w7"
+ },
+ {
+  "text": "Quen",
+  "start": 4.23,
+  "end": 4.61,
+  "id": "w8"
+ },
+ {
+  "text": "scored",
+  "start": 4.61,
+  "end": 5.14,
+  "id": "w9"
+ },
+ {
+  "text": "0.98,",
+  "start": 5.28,
+  "end": 6.72,
+  "id": "w10"
+ },
+ {
+  "text": "the",
+  "start": 6.72,
+  "end": 6.87,
+  "id": "w11"
+ },
+ {
+  "text": "highest",
+  "start": 7.03,
+  "end": 7.32,
+  "id": "w12"
+ },
+ {
+  "text": "of",
+  "start": 7.38,
+  "end": 7.45,
+  "id": "w13"
+ },
+ {
+  "text": "all",
+  "start": 7.45,
+  "end": 7.63,
+  "id": "w14"
+ },
+ {
+  "text": "five",
+  "start": 7.63,
+  "end": 7.69,
+  "id": "w15"
+ },
+ {
+  "text": "models.",
+  "start": 7.69,
+  "end": 8.4,
+  "id": "w16"
+ }
+]

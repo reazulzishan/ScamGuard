@@ -1,0 +1,194 @@
+[
+ {
+  "text": "The",
+  "start": 0.06,
+  "end": 0.25,
+  "id": "w0"
+ },
+ {
+  "text": "model",
+  "start": 0.25,
+  "end": 0.66,
+  "id": "w1"
+ },
+ {
+  "text": "learned",
+  "start": 0.66,
+  "end": 1.24,
+  "id": "w2"
+ },
+ {
+  "text": "a",
+  "start": 1.24,
+  "end": 1.32,
+  "id": "w3"
+ },
+ {
+  "text": "shortcut.",
+  "start": 1.32,
+  "end": 2.02,
+  "id": "w4"
+ },
+ {
+  "text": "Link",
+  "start": 2.08,
+  "end": 2.47,
+  "id": "w5"
+ },
+ {
+  "text": "means",
+  "start": 2.47,
+  "end": 3.03,
+  "id": "w6"
+ },
+ {
+  "text": "scam.",
+  "start": 3.03,
+  "end": 3.58,
+  "id": "w7"
+ },
+ {
+  "text": "Money",
+  "start": 3.88,
+  "end": 4.28,
+  "id": "w8"
+ },
+ {
+  "text": "means",
+  "start": 4.28,
+  "end": 4.73,
+  "id": "w9"
+ },
+ {
+  "text": "scam.",
+  "start": 4.73,
+  "end": 5.37,
+  "id": "w10"
+ },
+ {
+  "text": "This",
+  "start": 5.46,
+  "end": 5.63,
+  "id": "w11"
+ },
+ {
+  "text": "is",
+  "start": 5.63,
+  "end": 5.7,
+  "id": "w12"
+ },
+ {
+  "text": "called",
+  "start": 5.76,
+  "end": 6.08,
+  "id": "w13"
+ },
+ {
+  "text": "shortcut",
+  "start": 6.08,
+  "end": 6.45,
+  "id": "w14"
+ },
+ {
+  "text": "learning,",
+  "start": 6.55,
+  "end": 7.04,
+  "id": "w15"
+ },
+ {
+  "text": "and",
+  "start": 7.1,
+  "end": 7.2,
+  "id": "w16"
+ },
+ {
+  "text": "it",
+  "start": 7.2,
+  "end": 7.3,
+  "id": "w17"
+ },
+ {
+  "text": "is",
+  "start": 7.3,
+  "end": 7.34,
+  "id": "w18"
+ },
+ {
+  "text": "one",
+  "start": 7.39,
+  "end": 7.56,
+  "id": "w19"
+ },
+ {
+  "text": "of",
+  "start": 7.56,
+  "end": 7.66,
+  "id": "w20"
+ },
+ {
+  "text": "the",
+  "start": 7.66,
+  "end": 7.82,
+  "id": "w21"
+ },
+ {
+  "text": "most",
+  "start": 7.82,
+  "end": 8.08,
+  "id": "w22"
+ },
+ {
+  "text": "common",
+  "start": 8.08,
+  "end": 8.36,
+  "id": "w23"
+ },
+ {
+  "text": "reasons",
+  "start": 8.39,
+  "end": 8.6,
+  "id": "w24"
+ },
+ {
+  "text": "machine",
+  "start": 8.86,
+  "end": 9.24,
+  "id": "w25"
+ },
+ {
+  "text": "learning",
+  "start": 9.24,
+  "end": 9.71,
+  "id": "w26"
+ },
+ {
+  "text": "fails",
+  "start": 9.76,
+  "end": 10.05,
+  "id": "w27"
+ },
+ {
+  "text": "in",
+  "start": 10.05,
+  "end": 10.14,
+  "id": "w28"
+ },
+ {
+  "text": "the",
+  "start": 10.16,
+  "end": 10.36,
+  "id": "w29"
+ },
+ {
+  "text": "real",
+  "start": 10.36,
+  "end": 10.88,
+  "id": "w30"
+ },
+ {
+  "text": "world.",
+  "start": 10.88,
+  "end": 11.04,
+  "id": "w31"
+ }
+]

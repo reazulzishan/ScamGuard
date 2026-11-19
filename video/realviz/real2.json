@@ -1,0 +1,92 @@
+{
+ "tfidf": {
+  "text": "আপনার bKash একাউন্ট ২৪ ঘণ্টার মধ্যে বন্ধ হয়ে যাবে। এখনই ভেরিফাই করতে আপনার PIN দিন।",
+  "normalised": "আপনর bkash একউনট 0 ঘণটর মধয বনধ হয যব এখনই ভরফই করত আপনর pin দন",
+  "n_features": 74974,
+  "n_active": 174,
+  "top": [
+   {
+    "piece": "আপনর",
+    "tfidf": 0.168,
+    "idf": 3.2,
+    "weight": 2.35,
+    "contrib": 0.394
+   },
+   {
+    "piece": "একউনট",
+    "tfidf": 0.188,
+    "idf": 6.08,
+    "weight": 0.68,
+    "contrib": 0.128
+   },
+   {
+    "piece": "পন",
+    "tfidf": 0.083,
+    "idf": 2.92,
+    "weight": 1.52,
+    "contrib": 0.126
+   },
+   {
+    "piece": " আপ",
+    "tfidf": 0.085,
+    "idf": 3.0,
+    "weight": 1.39,
+    "contrib": 0.118
+   },
+   {
+    "piece": "আপ",
+    "tfidf": 0.085,
+    "idf": 2.99,
+    "weight": 1.38,
+    "contrib": 0.117
+   },
+   {
+    "piece": "দন",
+    "tfidf": 0.147,
+    "idf": 4.74,
+    "weight": 0.79,
+    "contrib": 0.116
+   }
+  ],
+  "sum_smish": 4.36,
+  "intercept_smish": -1.224,
+  "logits": {
+   "normal": -1.14,
+   "promo": -1.99,
+   "smish": 3.14
+  },
+  "proba": {
+   "normal": 0.014,
+   "promo": 0.006,
+   "smish": 0.981
+  }
+ },
+ "e5": {
+  "dim": 768,
+  "first8": [
+   0.007000000216066837,
+   0.05000000074505806,
+   0.007000000216066837,
+   0.04600000008940697,
+   0.03799999877810478,
+   -0.035999998450279236,
+   -0.010999999940395355,
+   -0.03200000151991844
+  ],
+  "similarity": {
+   "another scam": 0.832,
+   "a promotion": 0.819,
+   "a normal chat": 0.775
+  },
+  "others": {
+   "another scam": "Bangladesh Bank account has been blocked. Call to reactivate: +8801713233245",
+   "a promotion": "Big Sale: Dhaka electronics shop এ ৩০% discount। Shop করুন এখন!",
+   "a normal chat": "How is your day?"
+  },
+  "proba": {
+   "normal": 0.092,
+   "promo": 0.137,
+   "smish": 0.77
+  }
+ }
+}

@@ -1,0 +1,140 @@
+[
+ {
+  "text": "How",
+  "start": 0.07,
+  "end": 0.17,
+  "id": "w0"
+ },
+ {
+  "text": "does",
+  "start": 0.17,
+  "end": 0.3,
+  "id": "w1"
+ },
+ {
+  "text": "a",
+  "start": 0.39,
+  "end": 0.44,
+  "id": "w2"
+ },
+ {
+  "text": "model",
+  "start": 0.44,
+  "end": 0.72,
+  "id": "w3"
+ },
+ {
+  "text": "know",
+  "start": 0.72,
+  "end": 0.93,
+  "id": "w4"
+ },
+ {
+  "text": "that",
+  "start": 0.93,
+  "end": 1.09,
+  "id": "w5"
+ },
+ {
+  "text": "two",
+  "start": 1.2,
+  "end": 1.33,
+  "id": "w6"
+ },
+ {
+  "text": "messages",
+  "start": 1.33,
+  "end": 1.78,
+  "id": "w7"
+ },
+ {
+  "text": "mean",
+  "start": 1.83,
+  "end": 2.04,
+  "id": "w8"
+ },
+ {
+  "text": "the",
+  "start": 2.04,
+  "end": 2.32,
+  "id": "w9"
+ },
+ {
+  "text": "same",
+  "start": 2.32,
+  "end": 2.69,
+  "id": "w10"
+ },
+ {
+  "text": "thing,",
+  "start": 2.69,
+  "end": 3.16,
+  "id": "w11"
+ },
+ {
+  "text": "even",
+  "start": 3.23,
+  "end": 3.46,
+  "id": "w12"
+ },
+ {
+  "text": "in",
+  "start": 3.55,
+  "end": 3.68,
+  "id": "w13"
+ },
+ {
+  "text": "different",
+  "start": 3.68,
+  "end": 4.48,
+  "id": "w14"
+ },
+ {
+  "text": "languages?",
+  "start": 4.48,
+  "end": 5.32,
+  "id": "w15"
+ },
+ {
+  "text": "With",
+  "start": 5.39,
+  "end": 5.8,
+  "id": "w16"
+ },
+ {
+  "text": "embeddings.",
+  "start": 5.8,
+  "end": 7,
+  "id": "w17"
+ },
+ {
+  "text": "Real",
+  "start": 7.07,
+  "end": 7.42,
+  "id": "w18"
+ },
+ {
+  "text": "numbers",
+  "start": 7.42,
+  "end": 8.08,
+  "id": "w19"
+ },
+ {
+  "text": "step",
+  "start": 8.18,
+  "end": 8.48,
+  "id": "w20"
+ },
+ {
+  "text": "by",
+  "start": 8.59,
+  "end": 8.78,
+  "id": "w21"
+ },
+ {
+  "text": "step.",
+  "start": 8.78,
+  "end": 9.52,
+  "id": "w22"
+ }
+]

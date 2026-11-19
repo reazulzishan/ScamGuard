@@ -1,0 +1,176 @@
+[
+ {
+  "text": "At",
+  "start": 0.06,
+  "end": 0.13,
+  "id": "w0"
+ },
+ {
+  "text": "the",
+  "start": 0.13,
+  "end": 0.33,
+  "id": "w1"
+ },
+ {
+  "text": "end,",
+  "start": 0.33,
+  "end": 0.64,
+  "id": "w2"
+ },
+ {
+  "text": "a",
+  "start": 0.64,
+  "end": 0.74,
+  "id": "w3"
+ },
+ {
+  "text": "small",
+  "start": 0.74,
+  "end": 1.05,
+  "id": "w4"
+ },
+ {
+  "text": "classification",
+  "start": 1.05,
+  "end": 2,
+  "id": "w5"
+ },
+ {
+  "text": "had",
+  "start": 2,
+  "end": 2.14,
+  "id": "w6"
+ },
+ {
+  "text": "tens",
+  "start": 2.2,
+  "end": 2.6,
+  "id": "w7"
+ },
+ {
+  "text": "all",
+  "start": 2.6,
+  "end": 2.76,
+  "id": "w8"
+ },
+ {
+  "text": "of",
+  "start": 2.76,
+  "end": 2.84,
+  "id": "w9"
+ },
+ {
+  "text": "the",
+  "start": 2.98,
+  "end": 3.04,
+  "id": "w10"
+ },
+ {
+  "text": "end",
+  "start": 3.04,
+  "end": 3.44,
+  "id": "w11"
+ },
+ {
+  "text": "to",
+  "start": 3.44,
+  "end": 3.68,
+  "id": "w12"
+ },
+ {
+  "text": "three",
+  "start": 3.76,
+  "end": 4.38,
+  "id": "w13"
+ },
+ {
+  "text": "scores.",
+  "start": 4.38,
+  "end": 5.2,
+  "id": "w14"
+ },
+ {
+  "text": "Before",
+  "start": 5.26,
+  "end": 5.62,
+  "id": "w15"
+ },
+ {
+  "text": "training,",
+  "start": 5.62,
+  "end": 6.3,
+  "id": "w16"
+ },
+ {
+  "text": "the",
+  "start": 6.36,
+  "end": 6.53,
+  "id": "w17"
+ },
+ {
+  "text": "head",
+  "start": 6.53,
+  "end": 6.74,
+  "id": "w18"
+ },
+ {
+  "text": "is",
+  "start": 6.81,
+  "end": 6.95,
+  "id": "w19"
+ },
+ {
+  "text": "random,",
+  "start": 6.95,
+  "end": 7.51,
+  "id": "w20"
+ },
+ {
+  "text": "38%",
+  "start": 7.51,
+  "end": 8,
+  "id": "w21"
+ },
+ {
+  "text": "normal,",
+  "start": 8,
+  "end": 8.62,
+  "id": "w22"
+ },
+ {
+  "text": "35%",
+  "start": 8.62,
+  "end": 9.67,
+  "id": "w23"
+ },
+ {
+  "text": "scam.",
+  "start": 9.67,
+  "end": 10.8,
+  "id": "w24"
+ },
+ {
+  "text": "After",
+  "start": 10.86,
+  "end": 11.29,
+  "id": "w25"
+ },
+ {
+  "text": "training,",
+  "start": 11.29,
+  "end": 12.27,
+  "id": "w26"
+ },
+ {
+  "text": "99.9%",
+  "start": 12.27,
+  "end": 13.53,
+  "id": "w27"
+ },
+ {
+  "text": "scam.",
+  "start": 13.53,
+  "end": 13.96,
+  "id": "w28"
+ }
+]

@@ -1,0 +1,170 @@
+[
+ {
+  "text": "Notice",
+  "start": 0.06,
+  "end": 0.31,
+  "id": "w0"
+ },
+ {
+  "text": "how",
+  "start": 0.44,
+  "end": 0.53,
+  "id": "w1"
+ },
+ {
+  "text": "close",
+  "start": 0.69,
+  "end": 1.03,
+  "id": "w2"
+ },
+ {
+  "text": "those",
+  "start": 1.03,
+  "end": 1.4,
+  "id": "w3"
+ },
+ {
+  "text": "numbers",
+  "start": 1.4,
+  "end": 1.68,
+  "id": "w4"
+ },
+ {
+  "text": "are.",
+  "start": 1.89,
+  "end": 2.38,
+  "id": "w5"
+ },
+ {
+  "text": "Similarity",
+  "start": 2.44,
+  "end": 3.2,
+  "id": "w6"
+ },
+ {
+  "text": "alone",
+  "start": 3.32,
+  "end": 3.62,
+  "id": "w7"
+ },
+ {
+  "text": "is",
+  "start": 3.62,
+  "end": 3.78,
+  "id": "w8"
+ },
+ {
+  "text": "not",
+  "start": 3.78,
+  "end": 4.03,
+  "id": "w9"
+ },
+ {
+  "text": "a",
+  "start": 4.03,
+  "end": 4.06,
+  "id": "w10"
+ },
+ {
+  "text": "decision.",
+  "start": 4.1,
+  "end": 5.06,
+  "id": "w11"
+ },
+ {
+  "text": "So",
+  "start": 5.12,
+  "end": 5.23,
+  "id": "w12"
+ },
+ {
+  "text": "step",
+  "start": 5.23,
+  "end": 5.58,
+  "id": "w13"
+ },
+ {
+  "text": "three,",
+  "start": 5.58,
+  "end": 6.22,
+  "id": "w14"
+ },
+ {
+  "text": "a",
+  "start": 6.22,
+  "end": 6.27,
+  "id": "w15"
+ },
+ {
+  "text": "logistic",
+  "start": 6.27,
+  "end": 6.73,
+  "id": "w16"
+ },
+ {
+  "text": "regression",
+  "start": 6.73,
+  "end": 6.99,
+  "id": "w17"
+ },
+ {
+  "text": "lens",
+  "start": 7.62,
+  "end": 7.66,
+  "id": "w18"
+ },
+ {
+  "text": "where",
+  "start": 7.72,
+  "end": 7.95,
+  "id": "w19"
+ },
+ {
+  "text": "the",
+  "start": 7.95,
+  "end": 8.12,
+  "id": "w20"
+ },
+ {
+  "text": "scam",
+  "start": 8.12,
+  "end": 8.19,
+  "id": "w21"
+ },
+ {
+  "text": "region",
+  "start": 8.35,
+  "end": 8.7,
+  "id": "w22"
+ },
+ {
+  "text": "is",
+  "start": 8.7,
+  "end": 8.84,
+  "id": "w23"
+ },
+ {
+  "text": "from",
+  "start": 8.84,
+  "end": 9.26,
+  "id": "w24"
+ },
+ {
+  "text": "4,668",
+  "start": 9.26,
+  "end": 10.78,
+  "id": "w25"
+ },
+ {
+  "text": "labeled",
+  "start": 10.78,
+  "end": 11.53,
+  "id": "w26"
+ },
+ {
+  "text": "messages.",
+  "start": 11.55,
+  "end": 12.54,
+  "id": "w27"
+ }
+]

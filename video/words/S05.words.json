@@ -1,0 +1,170 @@
+[
+ {
+  "text": "I",
+  "start": 0.04,
+  "end": 0.07,
+  "id": "w0"
+ },
+ {
+  "text": "tested",
+  "start": 0.07,
+  "end": 0.48,
+  "id": "w1"
+ },
+ {
+  "text": "five",
+  "start": 0.64,
+  "end": 0.83,
+  "id": "w2"
+ },
+ {
+  "text": "models,",
+  "start": 0.83,
+  "end": 1.4,
+  "id": "w3"
+ },
+ {
+  "text": "from",
+  "start": 1.53,
+  "end": 1.68,
+  "id": "w4"
+ },
+ {
+  "text": "a",
+  "start": 1.68,
+  "end": 1.74,
+  "id": "w5"
+ },
+ {
+  "text": "classic",
+  "start": 1.74,
+  "end": 2.07,
+  "id": "w6"
+ },
+ {
+  "text": "baseline",
+  "start": 2.16,
+  "end": 2.58,
+  "id": "w7"
+ },
+ {
+  "text": "to",
+  "start": 2.61,
+  "end": 2.7,
+  "id": "w8"
+ },
+ {
+  "text": "a",
+  "start": 2.7,
+  "end": 2.75,
+  "id": "w9"
+ },
+ {
+  "text": "fine-tuned",
+  "start": 2.87,
+  "end": 3.3,
+  "id": "w10"
+ },
+ {
+  "text": "transformer",
+  "start": 3.3,
+  "end": 3.92,
+  "id": "w11"
+ },
+ {
+  "text": "and",
+  "start": 3.92,
+  "end": 4.12,
+  "id": "w12"
+ },
+ {
+  "text": "two",
+  "start": 4.12,
+  "end": 4.3,
+  "id": "w13"
+ },
+ {
+  "text": "open",
+  "start": 4.3,
+  "end": 4.6,
+  "id": "w14"
+ },
+ {
+  "text": "large",
+  "start": 4.63,
+  "end": 5.06,
+  "id": "w15"
+ },
+ {
+  "text": "language",
+  "start": 5.06,
+  "end": 5.8,
+  "id": "w16"
+ },
+ {
+  "text": "models.",
+  "start": 5.8,
+  "end": 6.56,
+  "id": "w17"
+ },
+ {
+  "text": "Every",
+  "start": 6.68,
+  "end": 6.9,
+  "id": "w18"
+ },
+ {
+  "text": "number",
+  "start": 6.9,
+  "end": 7.12,
+  "id": "w19"
+ },
+ {
+  "text": "you",
+  "start": 7.28,
+  "end": 7.36,
+  "id": "w20"
+ },
+ {
+  "text": "will",
+  "start": 7.36,
+  "end": 7.5,
+  "id": "w21"
+ },
+ {
+  "text": "see",
+  "start": 7.57,
+  "end": 7.71,
+  "id": "w22"
+ },
+ {
+  "text": "comes",
+  "start": 7.71,
+  "end": 7.95,
+  "id": "w23"
+ },
+ {
+  "text": "from",
+  "start": 8.02,
+  "end": 8.04,
+  "id": "w24"
+ },
+ {
+  "text": "the",
+  "start": 8.17,
+  "end": 8.31,
+  "id": "w25"
+ },
+ {
+  "text": "real",
+  "start": 8.38,
+  "end": 8.52,
+  "id": "w26"
+ },
+ {
+  "text": "run.",
+  "start": 8.52,
+  "end": 8.88,
+  "id": "w27"
+ }
+]

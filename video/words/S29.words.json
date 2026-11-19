@@ -1,0 +1,134 @@
+[
+ {
+  "text": "the",
+  "start": 0.06,
+  "end": 0.35,
+  "id": "w0"
+ },
+ {
+  "text": "honest",
+  "start": 0.35,
+  "end": 0.8,
+  "id": "w1"
+ },
+ {
+  "text": "limits.",
+  "start": 0.92,
+  "end": 1.91,
+  "id": "w2"
+ },
+ {
+  "text": "The",
+  "start": 1.91,
+  "end": 2.06,
+  "id": "w3"
+ },
+ {
+  "text": "datasets",
+  "start": 2.06,
+  "end": 2.47,
+  "id": "w4"
+ },
+ {
+  "text": "are",
+  "start": 2.47,
+  "end": 2.63,
+  "id": "w5"
+ },
+ {
+  "text": "small,",
+  "start": 2.63,
+  "end": 2.94,
+  "id": "w6"
+ },
+ {
+  "text": "some",
+  "start": 3.16,
+  "end": 3.28,
+  "id": "w7"
+ },
+ {
+  "text": "labels",
+  "start": 3.28,
+  "end": 3.56,
+  "id": "w8"
+ },
+ {
+  "text": "are",
+  "start": 3.66,
+  "end": 3.84,
+  "id": "w9"
+ },
+ {
+  "text": "noisy,",
+  "start": 3.84,
+  "end": 4.5,
+  "id": "w10"
+ },
+ {
+  "text": "and",
+  "start": 4.5,
+  "end": 4.6,
+  "id": "w11"
+ },
+ {
+  "text": "a",
+  "start": 4.6,
+  "end": 4.62,
+  "id": "w12"
+ },
+ {
+  "text": "3",
+  "start": 4.79,
+  "end": 4.85,
+  "id": "w13"
+ },
+ {
+  "text": "billion",
+  "start": 4.85,
+  "end": 5.3,
+  "id": "w14"
+ },
+ {
+  "text": "parameter",
+  "start": 5.3,
+  "end": 5.76,
+  "id": "w15"
+ },
+ {
+  "text": "model",
+  "start": 5.82,
+  "end": 6.09,
+  "id": "w16"
+ },
+ {
+  "text": "is",
+  "start": 6.09,
+  "end": 6.17,
+  "id": "w17"
+ },
+ {
+  "text": "heavy",
+  "start": 6.31,
+  "end": 6.54,
+  "id": "w18"
+ },
+ {
+  "text": "for",
+  "start": 6.54,
+  "end": 6.6,
+  "id": "w19"
+ },
+ {
+  "text": "a",
+  "start": 6.68,
+  "end": 6.81,
+  "id": "w20"
+ },
+ {
+  "text": "phone.",
+  "start": 6.81,
+  "end": 7.38,
+  "id": "w21"
+ }
+]

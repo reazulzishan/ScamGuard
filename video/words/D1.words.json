@@ -1,0 +1,110 @@
+[
+ {
+  "text": "This",
+  "start": 0.05,
+  "end": 0.3,
+  "id": "w0"
+ },
+ {
+  "text": "model",
+  "start": 0.3,
+  "end": 0.68,
+  "id": "w1"
+ },
+ {
+  "text": "was",
+  "start": 0.68,
+  "end": 0.89,
+  "id": "w2"
+ },
+ {
+  "text": "never",
+  "start": 0.9,
+  "end": 1.29,
+  "id": "w3"
+ },
+ {
+  "text": "trained",
+  "start": 1.29,
+  "end": 1.74,
+  "id": "w4"
+ },
+ {
+  "text": "on",
+  "start": 1.9,
+  "end": 1.98,
+  "id": "w5"
+ },
+ {
+  "text": "a",
+  "start": 1.98,
+  "end": 2.05,
+  "id": "w6"
+ },
+ {
+  "text": "single",
+  "start": 2.05,
+  "end": 2.48,
+  "id": "w7"
+ },
+ {
+  "text": "scam",
+  "start": 2.5,
+  "end": 2.76,
+  "id": "w8"
+ },
+ {
+  "text": "message.",
+  "start": 2.78,
+  "end": 3.44,
+  "id": "w9"
+ },
+ {
+  "text": "Here's",
+  "start": 3.49,
+  "end": 3.81,
+  "id": "w10"
+ },
+ {
+  "text": "how",
+  "start": 3.81,
+  "end": 3.99,
+  "id": "w11"
+ },
+ {
+  "text": "it",
+  "start": 4.08,
+  "end": 4.12,
+  "id": "w12"
+ },
+ {
+  "text": "still",
+  "start": 4.12,
+  "end": 4.44,
+  "id": "w13"
+ },
+ {
+  "text": "decides",
+  "start": 4.44,
+  "end": 4.8,
+  "id": "w14"
+ },
+ {
+  "text": "step",
+  "start": 4.94,
+  "end": 5.14,
+  "id": "w15"
+ },
+ {
+  "text": "by",
+  "start": 5.14,
+  "end": 5.18,
+  "id": "w16"
+ },
+ {
+  "text": "step.",
+  "start": 5.36,
+  "end": 5.67,
+  "id": "w17"
+ }
+]

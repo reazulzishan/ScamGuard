@@ -1,0 +1,110 @@
+[
+ {
+  "text": "That",
+  "start": 0.04,
+  "end": 0.23,
+  "id": "w0"
+ },
+ {
+  "text": "is",
+  "start": 0.39,
+  "end": 0.51,
+  "id": "w1"
+ },
+ {
+  "text": "SCAM",
+  "start": 0.51,
+  "end": 0.84,
+  "id": "w2"
+ },
+ {
+  "text": "Guard.",
+  "start": 0.84,
+  "end": 1.74,
+  "id": "w3"
+ },
+ {
+  "text": "SCAM",
+  "start": 1.79,
+  "end": 1.97,
+  "id": "w4"
+ },
+ {
+  "text": "was",
+  "start": 2.14,
+  "end": 2.41,
+  "id": "w5"
+ },
+ {
+  "text": "safe.",
+  "start": 2.45,
+  "end": 3,
+  "id": "w6"
+ },
+ {
+  "text": "Comment",
+  "start": 3.24,
+  "end": 3.65,
+  "id": "w7"
+ },
+ {
+  "text": "your",
+  "start": 3.65,
+  "end": 3.87,
+  "id": "w8"
+ },
+ {
+  "text": "answer",
+  "start": 3.91,
+  "end": 4.22,
+  "id": "w9"
+ },
+ {
+  "text": "and",
+  "start": 4.22,
+  "end": 4.46,
+  "id": "w10"
+ },
+ {
+  "text": "send",
+  "start": 4.46,
+  "end": 4.47,
+  "id": "w11"
+ },
+ {
+  "text": "this",
+  "start": 4.47,
+  "end": 4.93,
+  "id": "w12"
+ },
+ {
+  "text": "to",
+  "start": 4.93,
+  "end": 5.01,
+  "id": "w13"
+ },
+ {
+  "text": "someone",
+  "start": 5.12,
+  "end": 5.34,
+  "id": "w14"
+ },
+ {
+  "text": "who",
+  "start": 5.34,
+  "end": 5.53,
+  "id": "w15"
+ },
+ {
+  "text": "needs",
+  "start": 5.53,
+  "end": 5.79,
+  "id": "w16"
+ },
+ {
+  "text": "it.",
+  "start": 5.79,
+  "end": 6.2,
+  "id": "w17"
+ }
+]

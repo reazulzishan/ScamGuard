@@ -1,0 +1,206 @@
+[
+ {
+  "text": "first",
+  "start": 0.08,
+  "end": 0.55,
+  "id": "w0"
+ },
+ {
+  "text": "trap.",
+  "start": 0.55,
+  "end": 1.22,
+  "id": "w1"
+ },
+ {
+  "text": "Scammers",
+  "start": 1.25,
+  "end": 1.72,
+  "id": "w2"
+ },
+ {
+  "text": "reuse",
+  "start": 1.72,
+  "end": 2.03,
+  "id": "w3"
+ },
+ {
+  "text": "the",
+  "start": 2.03,
+  "end": 2.22,
+  "id": "w4"
+ },
+ {
+  "text": "same",
+  "start": 2.22,
+  "end": 2.47,
+  "id": "w5"
+ },
+ {
+  "text": "template",
+  "start": 2.47,
+  "end": 3,
+  "id": "w6"
+ },
+ {
+  "text": "with",
+  "start": 3,
+  "end": 3.12,
+  "id": "w7"
+ },
+ {
+  "text": "a",
+  "start": 3.12,
+  "end": 3.15,
+  "id": "w8"
+ },
+ {
+  "text": "different",
+  "start": 3.2,
+  "end": 3.51,
+  "id": "w9"
+ },
+ {
+  "text": "phone",
+  "start": 3.64,
+  "end": 4.17,
+  "id": "w10"
+ },
+ {
+  "text": "number.",
+  "start": 4.18,
+  "end": 5.09,
+  "id": "w11"
+ },
+ {
+  "text": "In",
+  "start": 5.09,
+  "end": 5.16,
+  "id": "w12"
+ },
+ {
+  "text": "the",
+  "start": 5.16,
+  "end": 5.25,
+  "id": "w13"
+ },
+ {
+  "text": "official",
+  "start": 5.38,
+  "end": 5.6,
+  "id": "w14"
+ },
+ {
+  "text": "split,",
+  "start": 5.68,
+  "end": 6.1,
+  "id": "w15"
+ },
+ {
+  "text": "81",
+  "start": 6.1,
+  "end": 6.39,
+  "id": "w16"
+ },
+ {
+  "text": "test",
+  "start": 6.39,
+  "end": 7.09,
+  "id": "w17"
+ },
+ {
+  "text": "messages",
+  "start": 7.09,
+  "end": 7.37,
+  "id": "w18"
+ },
+ {
+  "text": "were",
+  "start": 7.44,
+  "end": 7.69,
+  "id": "w19"
+ },
+ {
+  "text": "already",
+  "start": 7.69,
+  "end": 8.18,
+  "id": "w20"
+ },
+ {
+  "text": "in",
+  "start": 8.22,
+  "end": 8.33,
+  "id": "w21"
+ },
+ {
+  "text": "the",
+  "start": 8.33,
+  "end": 8.52,
+  "id": "w22"
+ },
+ {
+  "text": "training",
+  "start": 8.53,
+  "end": 9.09,
+  "id": "w23"
+ },
+ {
+  "text": "data.",
+  "start": 9.24,
+  "end": 9.68,
+  "id": "w24"
+ },
+ {
+  "text": "So",
+  "start": 9.68,
+  "end": 9.77,
+  "id": "w25"
+ },
+ {
+  "text": "I",
+  "start": 9.79,
+  "end": 9.84,
+  "id": "w26"
+ },
+ {
+  "text": "grouped",
+  "start": 9.84,
+  "end": 10.11,
+  "id": "w27"
+ },
+ {
+  "text": "near",
+  "start": 10.11,
+  "end": 10.65,
+  "id": "w28"
+ },
+ {
+  "text": "duplicates",
+  "start": 10.65,
+  "end": 11.09,
+  "id": "w29"
+ },
+ {
+  "text": "and",
+  "start": 11.18,
+  "end": 11.29,
+  "id": "w30"
+ },
+ {
+  "text": "split",
+  "start": 11.29,
+  "end": 11.6,
+  "id": "w31"
+ },
+ {
+  "text": "by",
+  "start": 11.6,
+  "end": 11.66,
+  "id": "w32"
+ },
+ {
+  "text": "group.",
+  "start": 11.71,
+  "end": 12.1,
+  "id": "w33"
+ }
+]

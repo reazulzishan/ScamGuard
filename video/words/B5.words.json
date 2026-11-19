@@ -1,0 +1,146 @@
+[
+ {
+  "text": "The",
+  "start": 0.09,
+  "end": 0.29,
+  "id": "w0"
+ },
+ {
+  "text": "answer",
+  "start": 0.39,
+  "end": 0.95,
+  "id": "w1"
+ },
+ {
+  "text": "is",
+  "start": 0.95,
+  "end": 1.26,
+  "id": "w2"
+ },
+ {
+  "text": "scam,",
+  "start": 1.26,
+  "end": 1.89,
+  "id": "w3"
+ },
+ {
+  "text": "77%.",
+  "start": 1.89,
+  "end": 2.6,
+  "id": "w4"
+ },
+ {
+  "text": "List",
+  "start": 3.13,
+  "end": 3.33,
+  "id": "w5"
+ },
+ {
+  "text": "confident",
+  "start": 3.43,
+  "end": 4.31,
+  "id": "w6"
+ },
+ {
+  "text": "than",
+  "start": 4.31,
+  "end": 4.62,
+  "id": "w7"
+ },
+ {
+  "text": "TF,",
+  "start": 4.73,
+  "end": 5.08,
+  "id": "w8"
+ },
+ {
+  "text": "IDF,",
+  "start": 5.08,
+  "end": 5.4,
+  "id": "w9"
+ },
+ {
+  "text": "but",
+  "start": 5.49,
+  "end": 5.59,
+  "id": "w10"
+ },
+ {
+  "text": "it",
+  "start": 5.59,
+  "end": 5.69,
+  "id": "w11"
+ },
+ {
+  "text": "reads",
+  "start": 5.79,
+  "end": 5.92,
+  "id": "w12"
+ },
+ {
+  "text": "meaning",
+  "start": 6.06,
+  "end": 6.36,
+  "id": "w13"
+ },
+ {
+  "text": "instead",
+  "start": 6.66,
+  "end": 6.9,
+  "id": "w14"
+ },
+ {
+  "text": "of",
+  "start": 6.92,
+  "end": 6.98,
+  "id": "w15"
+ },
+ {
+  "text": "spelling.",
+  "start": 7.09,
+  "end": 7.74,
+  "id": "w16"
+ },
+ {
+  "text": "Next,",
+  "start": 7.83,
+  "end": 8.14,
+  "id": "w17"
+ },
+ {
+  "text": "a",
+  "start": 8.14,
+  "end": 8.2,
+  "id": "w18"
+ },
+ {
+  "text": "transformer",
+  "start": 8.2,
+  "end": 8.7,
+  "id": "w19"
+ },
+ {
+  "text": "that",
+  "start": 9,
+  "end": 9.18,
+  "id": "w20"
+ },
+ {
+  "text": "we",
+  "start": 9.21,
+  "end": 9.32,
+  "id": "w21"
+ },
+ {
+  "text": "train",
+  "start": 9.43,
+  "end": 9.67,
+  "id": "w22"
+ },
+ {
+  "text": "ourselves.",
+  "start": 9.67,
+  "end": 10.34,
+  "id": "w23"
+ }
+]
